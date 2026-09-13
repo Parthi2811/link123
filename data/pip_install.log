@@ -1,0 +1,313 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting playwright==1.44.0 (from -r requirements.txt (line 2))
+  Using cached playwright-1.44.0-py3-none-win_amd64.whl.metadata (3.5 kB)
+Collecting langgraph==0.1.19 (from -r requirements.txt (line 5))
+  Using cached langgraph-0.1.19-py3-none-any.whl.metadata (13 kB)
+Collecting langchain-core==0.2.27 (from -r requirements.txt (line 6))
+  Using cached langchain_core-0.2.27-py3-none-any.whl.metadata (6.2 kB)
+Collecting google-generativeai==0.7.2 (from -r requirements.txt (line 9))
+  Using cached google_generativeai-0.7.2-py3-none-any.whl.metadata (4.0 kB)
+Collecting langchain-google-genai==1.0.7 (from -r requirements.txt (line 10))
+  Using cached langchain_google_genai-1.0.7-py3-none-any.whl.metadata (3.8 kB)
+Collecting pdfplumber==0.11.4 (from -r requirements.txt (line 13))
+  Using cached pdfplumber-0.11.4-py3-none-any.whl.metadata (41 kB)
+Collecting pypdf==4.3.1 (from -r requirements.txt (line 14))
+  Using cached pypdf-4.3.1-py3-none-any.whl.metadata (7.4 kB)
+Collecting python-docx==1.1.2 (from -r requirements.txt (line 15))
+  Using cached python_docx-1.1.2-py3-none-any.whl.metadata (2.0 kB)
+Collecting reportlab==4.2.2 (from -r requirements.txt (line 18))
+  Using cached reportlab-4.2.2-py3-none-any.whl.metadata (1.4 kB)
+Collecting Pillow==10.4.0 (from -r requirements.txt (line 19))
+  Using cached pillow-10.4.0-cp313-cp313-win_amd64.whl.metadata (9.3 kB)
+Collecting aiosqlite==0.20.0 (from -r requirements.txt (line 22))
+  Using cached aiosqlite-0.20.0-py3-none-any.whl.metadata (4.3 kB)
+Requirement already satisfied: python-dotenv==1.0.1 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from -r requirements.txt (line 25)) (1.0.1)
+Collecting rich==13.7.1 (from -r requirements.txt (line 26))
+  Using cached rich-13.7.1-py3-none-any.whl.metadata (18 kB)
+Collecting tenacity==8.4.2 (from -r requirements.txt (line 27))
+  Using cached tenacity-8.4.2-py3-none-any.whl.metadata (1.2 kB)
+Collecting pydantic==2.8.2 (from -r requirements.txt (line 28))
+  Using cached pydantic-2.8.2-py3-none-any.whl.metadata (125 kB)
+Collecting loguru==0.7.2 (from -r requirements.txt (line 29))
+  Using cached loguru-0.7.2-py3-none-any.whl.metadata (23 kB)
+Collecting APScheduler==3.10.4 (from -r requirements.txt (line 30))
+  Using cached APScheduler-3.10.4-py3-none-any.whl.metadata (5.7 kB)
+Collecting plyer==2.1.0 (from -r requirements.txt (line 33))
+  Using cached plyer-2.1.0-py2.py3-none-any.whl.metadata (61 kB)
+Collecting greenlet==3.0.3 (from playwright==1.44.0->-r requirements.txt (line 2))
+  Using cached greenlet-3.0.3.tar.gz (182 kB)
+  Installing build dependencies: started
+  Installing build dependencies: finished with status 'done'
+  Getting requirements to build wheel: started
+  Getting requirements to build wheel: finished with status 'done'
+  Preparing metadata (pyproject.toml): started
+  Preparing metadata (pyproject.toml): finished with status 'done'
+Collecting pyee==11.1.0 (from playwright==1.44.0->-r requirements.txt (line 2))
+  Using cached pyee-11.1.0-py3-none-any.whl.metadata (2.8 kB)
+Requirement already satisfied: PyYAML>=5.3 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from langchain-core==0.2.27->-r requirements.txt (line 6)) (6.0.3)
+Requirement already satisfied: jsonpatch<2.0,>=1.33 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from langchain-core==0.2.27->-r requirements.txt (line 6)) (1.33)
+Collecting langsmith<0.2.0,>=0.1.75 (from langchain-core==0.2.27->-r requirements.txt (line 6))
+  Using cached langsmith-0.1.147-py3-none-any.whl.metadata (14 kB)
+Collecting packaging<25,>=23.2 (from langchain-core==0.2.27->-r requirements.txt (line 6))
+  Using cached packaging-24.2-py3-none-any.whl.metadata (3.2 kB)
+Requirement already satisfied: typing-extensions>=4.7 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from langchain-core==0.2.27->-r requirements.txt (line 6)) (4.15.0)
+Requirement already satisfied: annotated-types>=0.4.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from pydantic==2.8.2->-r requirements.txt (line 28)) (0.7.0)
+Collecting pydantic-core==2.20.1 (from pydantic==2.8.2->-r requirements.txt (line 28))
+  Using cached pydantic_core-2.20.1-cp313-none-win_amd64.whl.metadata (6.7 kB)
+Collecting google-ai-generativelanguage==0.6.6 (from google-generativeai==0.7.2->-r requirements.txt (line 9))
+  Using cached google_ai_generativelanguage-0.6.6-py3-none-any.whl.metadata (5.6 kB)
+Requirement already satisfied: google-api-core in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-generativeai==0.7.2->-r requirements.txt (line 9)) (2.30.3)
+Requirement already satisfied: google-api-python-client in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-generativeai==0.7.2->-r requirements.txt (line 9)) (2.194.0)
+Requirement already satisfied: google-auth>=2.15.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-generativeai==0.7.2->-r requirements.txt (line 9)) (2.49.2)
+Requirement already satisfied: protobuf in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-generativeai==0.7.2->-r requirements.txt (line 9)) (5.29.6)
+Requirement already satisfied: tqdm in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-generativeai==0.7.2->-r requirements.txt (line 9)) (4.67.3)
+Collecting pdfminer.six==20231228 (from pdfplumber==0.11.4->-r requirements.txt (line 13))
+  Using cached pdfminer.six-20231228-py3-none-any.whl.metadata (4.2 kB)
+Collecting pypdfium2>=4.18.0 (from pdfplumber==0.11.4->-r requirements.txt (line 13))
+  Using cached pypdfium2-5.13.0-py3-none-win_amd64.whl.metadata (67 kB)
+Requirement already satisfied: lxml>=3.1.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from python-docx==1.1.2->-r requirements.txt (line 15)) (6.1.0)
+Collecting chardet (from reportlab==4.2.2->-r requirements.txt (line 18))
+  Using cached chardet-7.6.0-cp313-cp313-win_amd64.whl.metadata (9.6 kB)
+Requirement already satisfied: markdown-it-py>=2.2.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from rich==13.7.1->-r requirements.txt (line 26)) (4.0.0)
+Requirement already satisfied: pygments<3.0.0,>=2.13.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from rich==13.7.1->-r requirements.txt (line 26)) (2.20.0)
+Requirement already satisfied: colorama>=0.3.4 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from loguru==0.7.2->-r requirements.txt (line 29)) (0.4.6)
+Collecting win32-setctime>=1.0.0 (from loguru==0.7.2->-r requirements.txt (line 29))
+  Using cached win32_setctime-1.2.0-py3-none-any.whl.metadata (2.4 kB)
+Requirement already satisfied: six>=1.4.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from APScheduler==3.10.4->-r requirements.txt (line 30)) (1.17.0)
+Requirement already satisfied: pytz in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from APScheduler==3.10.4->-r requirements.txt (line 30)) (2026.1.post1)
+Requirement already satisfied: tzlocal!=3.*,>=2.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from APScheduler==3.10.4->-r requirements.txt (line 30)) (5.3.1)
+Requirement already satisfied: proto-plus<2.0.0dev,>=1.22.3 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-ai-generativelanguage==0.6.6->google-generativeai==0.7.2->-r requirements.txt (line 9)) (1.27.2)
+Collecting protobuf (from google-generativeai==0.7.2->-r requirements.txt (line 9))
+  Using cached protobuf-4.25.9-cp310-abi3-win_amd64.whl.metadata (541 bytes)
+Requirement already satisfied: charset-normalizer>=2.0.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from pdfminer.six==20231228->pdfplumber==0.11.4->-r requirements.txt (line 13)) (3.4.6)
+Requirement already satisfied: cryptography>=36.0.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from pdfminer.six==20231228->pdfplumber==0.11.4->-r requirements.txt (line 13)) (46.0.7)
+Requirement already satisfied: googleapis-common-protos<2.0.0,>=1.63.2 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-api-core->google-generativeai==0.7.2->-r requirements.txt (line 9)) (1.74.0)
+Requirement already satisfied: requests<3.0.0,>=2.20.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-api-core->google-generativeai==0.7.2->-r requirements.txt (line 9)) (2.32.5)
+Requirement already satisfied: grpcio<2.0.0,>=1.33.2 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.1->google-ai-generativelanguage==0.6.6->google-generativeai==0.7.2->-r requirements.txt (line 9)) (1.80.0)
+Requirement already satisfied: grpcio-status<2.0.0,>=1.33.2 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.1->google-ai-generativelanguage==0.6.6->google-generativeai==0.7.2->-r requirements.txt (line 9)) (1.71.2)
+Requirement already satisfied: pyasn1-modules>=0.2.1 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-auth>=2.15.0->google-generativeai==0.7.2->-r requirements.txt (line 9)) (0.4.2)
+INFO: pip is looking at multiple versions of grpcio-status to determine which version is compatible with other requirements. This could take a while.
+Collecting grpcio-status<2.0.0,>=1.33.2 (from google-api-core[grpc]!=2.0.*,!=2.1.*,!=2.10.*,!=2.2.*,!=2.3.*,!=2.4.*,!=2.5.*,!=2.6.*,!=2.7.*,!=2.8.*,!=2.9.*,<3.0.0dev,>=1.34.1->google-ai-generativelanguage==0.6.6->google-generativeai==0.7.2->-r requirements.txt (line 9))
+  Using cached grpcio_status-1.83.1-py3-none-any.whl.metadata (1.2 kB)
+  Using cached grpcio_status-1.83.0-py3-none-any.whl.metadata (1.2 kB)
+  Using cached grpcio_status-1.82.2-py3-none-any.whl.metadata (1.2 kB)
+  Using cached grpcio_status-1.82.1-py3-none-any.whl.metadata (1.2 kB)
+  Using cached grpcio_status-1.81.1-py3-none-any.whl.metadata (1.2 kB)
+  Using cached grpcio_status-1.81.0-py3-none-any.whl.metadata (1.2 kB)
+  Using cached grpcio_status-1.80.0-py3-none-any.whl.metadata (1.3 kB)
+INFO: pip is still looking at multiple versions of grpcio-status to determine which version is compatible with other requirements. This could take a while.
+  Using cached grpcio_status-1.78.0-py3-none-any.whl.metadata (1.3 kB)
+  Using cached grpcio_status-1.76.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.75.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.75.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.74.0-py3-none-any.whl.metadata (1.1 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Using cached grpcio_status-1.73.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.73.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.72.2-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.72.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.71.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.70.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.69.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.68.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.68.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.67.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.67.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.66.2-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.66.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.66.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.65.5-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.65.4-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.65.2-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.65.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.64.3-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.64.1-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.64.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.63.2-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.63.0-py3-none-any.whl.metadata (1.1 kB)
+  Using cached grpcio_status-1.62.3-py3-none-any.whl.metadata (1.3 kB)
+Requirement already satisfied: jsonpointer>=1.9 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from jsonpatch<2.0,>=1.33->langchain-core==0.2.27->-r requirements.txt (line 6)) (3.1.1)
+Requirement already satisfied: httpx<1,>=0.23.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (0.28.1)
+Requirement already satisfied: orjson<4.0.0,>=3.9.14 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (3.11.8)
+Requirement already satisfied: requests-toolbelt<2.0.0,>=1.0.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (1.0.0)
+Requirement already satisfied: anyio in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from httpx<1,>=0.23.0->langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (4.13.0)
+Requirement already satisfied: certifi in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from httpx<1,>=0.23.0->langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (2026.2.25)
+Requirement already satisfied: httpcore==1.* in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from httpx<1,>=0.23.0->langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (1.0.9)
+Requirement already satisfied: idna in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from httpx<1,>=0.23.0->langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (3.11)
+Requirement already satisfied: h11>=0.16 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from httpcore==1.*->httpx<1,>=0.23.0->langsmith<0.2.0,>=0.1.75->langchain-core==0.2.27->-r requirements.txt (line 6)) (0.16.0)
+Requirement already satisfied: urllib3<3,>=1.21.1 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from requests<3.0.0,>=2.20.0->google-api-core->google-generativeai==0.7.2->-r requirements.txt (line 9)) (2.6.3)
+Requirement already satisfied: cffi>=2.0.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from cryptography>=36.0.0->pdfminer.six==20231228->pdfplumber==0.11.4->-r requirements.txt (line 13)) (2.0.0)
+Requirement already satisfied: pycparser in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from cffi>=2.0.0->cryptography>=36.0.0->pdfminer.six==20231228->pdfplumber==0.11.4->-r requirements.txt (line 13)) (3.0)
+Requirement already satisfied: mdurl~=0.1 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from markdown-it-py>=2.2.0->rich==13.7.1->-r requirements.txt (line 26)) (0.1.2)
+Requirement already satisfied: pyasn1<0.7.0,>=0.6.1 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from pyasn1-modules>=0.2.1->google-auth>=2.15.0->google-generativeai==0.7.2->-r requirements.txt (line 9)) (0.6.3)
+Requirement already satisfied: tzdata in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from tzlocal!=3.*,>=2.0->APScheduler==3.10.4->-r requirements.txt (line 30)) (2025.3)
+Requirement already satisfied: httplib2<1.0.0,>=0.19.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-api-python-client->google-generativeai==0.7.2->-r requirements.txt (line 9)) (0.31.2)
+Requirement already satisfied: google-auth-httplib2<1.0.0,>=0.2.0 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-api-python-client->google-generativeai==0.7.2->-r requirements.txt (line 9)) (0.3.1)
+Requirement already satisfied: uritemplate<5,>=3.0.1 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from google-api-python-client->google-generativeai==0.7.2->-r requirements.txt (line 9)) (4.2.0)
+Requirement already satisfied: pyparsing<4,>=3.1 in C:\Users\HP\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages (from httplib2<1.0.0,>=0.19.0->google-api-python-client->google-generativeai==0.7.2->-r requirements.txt (line 9)) (3.3.2)
+Using cached playwright-1.44.0-py3-none-win_amd64.whl (29.7 MB)
+Using cached langgraph-0.1.19-py3-none-any.whl (102 kB)
+Using cached langchain_core-0.2.27-py3-none-any.whl (379 kB)
+Using cached tenacity-8.4.2-py3-none-any.whl (28 kB)
+Using cached pydantic-2.8.2-py3-none-any.whl (423 kB)
+Using cached google_generativeai-0.7.2-py3-none-any.whl (164 kB)
+Using cached langchain_google_genai-1.0.7-py3-none-any.whl (36 kB)
+Using cached pdfplumber-0.11.4-py3-none-any.whl (59 kB)
+Using cached pypdf-4.3.1-py3-none-any.whl (295 kB)
+Using cached python_docx-1.1.2-py3-none-any.whl (244 kB)
+Using cached reportlab-4.2.2-py3-none-any.whl (1.9 MB)
+Using cached pillow-10.4.0-cp313-cp313-win_amd64.whl (2.6 MB)
+Using cached aiosqlite-0.20.0-py3-none-any.whl (15 kB)
+Using cached rich-13.7.1-py3-none-any.whl (240 kB)
+Using cached loguru-0.7.2-py3-none-any.whl (62 kB)
+Using cached APScheduler-3.10.4-py3-none-any.whl (59 kB)
+Using cached plyer-2.1.0-py2.py3-none-any.whl (142 kB)
+Using cached google_ai_generativelanguage-0.6.6-py3-none-any.whl (718 kB)
+Using cached pdfminer.six-20231228-py3-none-any.whl (5.6 MB)
+Using cached pydantic_core-2.20.1-cp313-none-win_amd64.whl (1.9 MB)
+Using cached pyee-11.1.0-py3-none-any.whl (15 kB)
+Using cached grpcio_status-1.62.3-py3-none-any.whl (14 kB)
+Using cached langsmith-0.1.147-py3-none-any.whl (311 kB)
+Using cached packaging-24.2-py3-none-any.whl (65 kB)
+Using cached protobuf-4.25.9-cp310-abi3-win_amd64.whl (413 kB)
+Using cached pypdfium2-5.13.0-py3-none-win_amd64.whl (3.9 MB)
+Using cached win32_setctime-1.2.0-py3-none-any.whl (4.1 kB)
+Using cached chardet-7.6.0-cp313-cp313-win_amd64.whl (1.2 MB)
+Building wheels for collected packages: greenlet
+  Building wheel for greenlet (pyproject.toml): started
+  Building wheel for greenlet (pyproject.toml): finished with status 'error'
+  error: subprocess-exited-with-error
+  
+  Building wheel for greenlet (pyproject.toml) did not run successfully.
+  exit code: 1
+  
+  [119 lines of output]
+  C:\Users\HP\AppData\Local\Temp\pip-build-env-zh554xgj\overlay\Lib\site-packages\setuptools\dist.py:765: SetuptoolsDeprecationWarning: License classifiers are deprecated.
+  !!
+  
+          ********************************************************************************
+          Please consider removing the following classifiers in favor of a SPDX license expression:
+  
+          License :: OSI Approved :: MIT License
+  
+          See https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#license for details.
+          ********************************************************************************
+  
+  !!
+    self._finalize_license_expression()
+  running bdist_wheel
+  running build
+  running build_py
+  creating build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\__init__.py -> build\lib.win-amd64-cpython-313\greenlet
+  creating build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\__init__.py -> build\lib.win-amd64-cpython-313\greenlet\platform
+  creating build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\fail_clearing_run_switches.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\fail_cpp_exception.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\fail_initialstub_already_started.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\fail_slp_switch.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\fail_switch_three_greenlets.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\fail_switch_three_greenlets2.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\fail_switch_two_greenlets.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\leakcheck.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_contextvars.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_cpp.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_extension_interface.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_gc.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_generator.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_generator_nested.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_greenlet.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_greenlet_trash.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_leaks.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_stack_saved.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_throw.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_tracing.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_version.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\test_weakref.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\__init__.py -> build\lib.win-amd64-cpython-313\greenlet\tests
+  running egg_info
+  writing src\greenlet.egg-info\PKG-INFO
+  writing dependency_links to src\greenlet.egg-info\dependency_links.txt
+  writing requirements to src\greenlet.egg-info\requires.txt
+  writing top-level names to src\greenlet.egg-info\top_level.txt
+  reading manifest file 'src\greenlet.egg-info\SOURCES.txt'
+  reading manifest template 'MANIFEST.in'
+  warning: no previously-included files found matching 'benchmarks\*.json'
+  no previously-included directories found matching 'docs\_build'
+  warning: no files found matching '*.py' under directory 'appveyor'
+  warning: no previously-included files matching '*.pyc' found anywhere in distribution
+  warning: no previously-included files matching '*.pyd' found anywhere in distribution
+  warning: no previously-included files matching '*.so' found anywhere in distribution
+  warning: no previously-included files matching '.coverage' found anywhere in distribution
+  adding license file 'LICENSE'
+  adding license file 'LICENSE.PSF'
+  adding license file 'AUTHORS'
+  writing manifest file 'src\greenlet.egg-info\SOURCES.txt'
+  copying src\greenlet\TBrokenGreenlet.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TExceptionState.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TGreenlet.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TGreenletGlobals.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TMainGreenlet.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TPythonState.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TStackState.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TThreadStateDestroy.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\TUserGreenlet.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet.cpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet.h -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_allocator.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_compiler_compat.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_cpython_add_pending.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_cpython_compat.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_exceptions.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_greenlet.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_internal.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_refs.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_slp_switch.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_thread_state.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_thread_state_dict_cleanup.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\greenlet_thread_support.hpp -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\slp_platformselect.h -> build\lib.win-amd64-cpython-313\greenlet
+  copying src\greenlet\platform\setup_switch_x64_masm.cmd -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_aarch64_gcc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_alpha_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_amd64_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_arm32_gcc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_arm32_ios.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_arm64_masm.asm -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_arm64_masm.obj -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_arm64_msvc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_csky_gcc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_loongarch64_linux.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_m68k_gcc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_mips_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_ppc64_aix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_ppc64_linux.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_ppc_aix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_ppc_linux.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_ppc_macosx.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_ppc_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_riscv_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_s390_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_sparc_sun_gcc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_x32_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_x64_masm.asm -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_x64_masm.obj -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_x64_msvc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_x86_msvc.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\platform\switch_x86_unix.h -> build\lib.win-amd64-cpython-313\greenlet\platform
+  copying src\greenlet\tests\_test_extension.c -> build\lib.win-amd64-cpython-313\greenlet\tests
+  copying src\greenlet\tests\_test_extension_cpp.cpp -> build\lib.win-amd64-cpython-313\greenlet\tests
+  running build_ext
+  building 'greenlet._greenlet' extension
+  error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+  [end of output]
+  
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for greenlet
+Failed to build greenlet
+error: failed-wheel-build-for-install
+
+Failed to build installable wheels for some pyproject.toml based projects
+
+greenlet

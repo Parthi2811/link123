@@ -1,0 +1,2386 @@
+2026-09-11 11:53:25 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-11 11:53:25 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\aien\data\jobs.db
+2026-09-11 11:53:25 | INFO     | ✅ Database initialized
+2026-09-11 11:53:25 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-11 11:53:27 | INFO     | 🆕 Starting fresh browser session
+2026-09-11 11:53:30 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-11 11:53:30 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\aien\data\session.json
+2026-09-11 11:53:30 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-11 11:53:30 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-11 11:53:33 | INFO     | No job cards found on this page
+2026-09-11 11:53:33 | SUCCESS  | 🎯 Scraping complete: 0 new jobs queued
+2026-09-11 11:53:33 | INFO     | 📋 Scraped 0 new jobs
+2026-09-11 11:53:33 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-11 11:53:33 | INFO     | No pending jobs to tailor
+2026-09-11 11:53:33 | INFO     | ✍️  Tailored 0 resumes
+2026-09-11 11:53:33 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-11 11:53:33 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 0
+2026-09-11 11:53:33 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : DRY RUN                        ║
+║  Duration    : 7.6s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 0                            ║
+║    Resumes made: 0                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 0                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 0                            ║
+║    Pending     : 0                            ║
+║    Failed      : 0                            ║
+╚══════════════════════════════════════════════╝
+
+2026-09-11 11:53:33 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\aien\data\session.json
+2026-09-11 11:53:34 | INFO     | 🔒 Browser closed
+2026-09-11 11:54:12 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-11 11:54:12 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\aien\data\jobs.db
+2026-09-11 11:54:12 | INFO     | ✅ Database initialized
+2026-09-11 11:54:12 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-11 11:54:14 | INFO     | ✅ Restored browser session from disk
+2026-09-11 11:54:17 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-11 11:54:17 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\aien\data\session.json
+2026-09-11 11:54:17 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-11 11:54:17 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-11 11:54:21 | INFO     | No job cards found on this page
+2026-09-11 11:54:21 | SUCCESS  | 🎯 Scraping complete: 0 new jobs queued
+2026-09-11 11:54:21 | INFO     | 📋 Scraped 0 new jobs
+2026-09-11 11:54:21 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-11 11:54:21 | INFO     | No pending jobs to tailor
+2026-09-11 11:54:21 | INFO     | ✍️  Tailored 0 resumes
+2026-09-11 11:54:21 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-11 11:54:21 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 0
+2026-09-11 11:54:21 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : DRY RUN                        ║
+║  Duration    : 8.5s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 0                            ║
+║    Resumes made: 0                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 0                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 0                            ║
+║    Pending     : 0                            ║
+║    Failed      : 0                            ║
+╚══════════════════════════════════════════════╝
+
+2026-09-11 11:54:21 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\aien\data\session.json
+2026-09-11 11:54:22 | INFO     | 🔒 Browser closed
+2026-09-11 11:55:58 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-11 11:55:58 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\aien\data\jobs.db
+2026-09-11 11:55:58 | INFO     | ✅ Database initialized
+2026-09-11 11:55:58 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-11 11:55:59 | INFO     | ✅ Restored browser session from disk
+2026-09-11 11:56:02 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-11 11:56:03 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\aien\data\session.json
+2026-09-11 11:56:03 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-11 11:56:03 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-11 11:56:06 | INFO     | No job cards found on this page
+2026-09-11 11:56:06 | SUCCESS  | 🎯 Scraping complete: 0 new jobs queued
+2026-09-11 11:56:06 | INFO     | 📋 Scraped 0 new jobs
+2026-09-11 11:56:06 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-11 11:56:06 | INFO     | No pending jobs to tailor
+2026-09-11 11:56:06 | INFO     | ✍️  Tailored 0 resumes
+2026-09-11 11:56:06 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-11 11:56:06 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 0
+2026-09-11 11:56:06 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : DRY RUN                        ║
+║  Duration    : 8.5s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 0                            ║
+║    Resumes made: 0                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 0                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 0                            ║
+║    Pending     : 0                            ║
+║    Failed      : 0                            ║
+╚══════════════════════════════════════════════╝
+
+2026-09-11 11:56:07 | INFO     | 🔒 Browser closed
+2026-09-11 11:56:53 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-11 11:56:53 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\aien\data\jobs.db
+2026-09-11 11:56:53 | INFO     | ✅ Database initialized
+2026-09-11 11:56:53 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-11 11:56:54 | INFO     | ✅ Restored browser session from disk
+2026-09-11 11:56:57 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-11 11:56:58 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\aien\data\session.json
+2026-09-11 11:56:58 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-11 11:56:58 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-11 11:57:02 | INFO     | No job cards found on this page
+2026-09-11 11:57:02 | SUCCESS  | 🎯 Scraping complete: 0 new jobs queued
+2026-09-11 11:57:02 | INFO     | 📋 Scraped 0 new jobs
+2026-09-11 11:57:02 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-11 11:57:02 | INFO     | No pending jobs to tailor
+2026-09-11 11:57:02 | INFO     | ✍️  Tailored 0 resumes
+2026-09-11 11:57:02 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-11 11:57:02 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 0
+2026-09-11 11:57:02 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : DRY RUN                        ║
+║  Duration    : 9.6s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 0                            ║
+║    Resumes made: 0                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 0                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 0                            ║
+║    Pending     : 0                            ║
+║    Failed      : 0                            ║
+╚══════════════════════════════════════════════╝
+
+2026-09-11 11:57:03 | INFO     | 🔒 Browser closed
+2026-09-12 08:56:14 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\aien\data\jobs.db
+2026-09-12 08:56:59 | INFO     | ✅ Restored browser session from disk
+2026-09-12 08:57:03 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 08:57:07 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\aien\data\session.json
+2026-09-12 08:57:07 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 08:57:15 | INFO     | No job cards found on this page
+2026-09-12 08:57:15 | SUCCESS  | 🎯 Scraping complete: 0 new jobs queued
+2026-09-12 08:57:15 | SUCCESS  | ✅ Stored 0 new jobs to database
+2026-09-12 08:57:41 | INFO     | 🔒 Browser closed
+2026-09-12 09:01:08 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 09:01:30 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:01:35 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 09:01:37 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:01:37 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 09:01:42 | INFO     | No job cards found on this page
+2026-09-12 09:01:42 | SUCCESS  | 🎯 Scraping complete: 0 new jobs queued
+2026-09-12 09:01:42 | SUCCESS  | ✅ Stored 0 new jobs to database
+2026-09-12 09:02:32 | INFO     | 🔒 Browser closed
+2026-09-12 09:08:01 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:08:02 | INFO     | 📝 Starting LinkedIn signup...
+2026-09-12 09:08:14 | ERROR    | ❌ Signup error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("//*[@id=\"email-or-phone\"]") to be visible
+
+2026-09-12 09:08:16 | INFO     | 🔒 Browser closed
+2026-09-12 09:08:55 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:08:55 | INFO     | 📝 Starting LinkedIn signup...
+2026-09-12 09:09:08 | ERROR    | ❌ Signup error: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("//*[@id=\"email-or-phone\"]") to be visible
+
+2026-09-12 09:09:10 | INFO     | 🔒 Browser closed
+2026-09-12 09:10:14 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:10:15 | INFO     | 📝 Starting LinkedIn signup...
+2026-09-12 09:10:23 | INFO     | ✓ Found email field with selector: input[id*="email"]
+2026-09-12 09:10:28 | INFO     | ✓ Email filled: rkoparthiban28@gmail.com
+2026-09-12 09:10:28 | INFO     | ✓ Found password field with selector: input[name="password"]
+2026-09-12 09:10:32 | INFO     | ✓ Password filled
+2026-09-12 09:10:32 | INFO     | ✓ Signup button clicked
+2026-09-12 09:10:35 | SUCCESS  | ✅ Signed up successfully as rkoparthiban28@gmail.com
+2026-09-12 09:10:37 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:10:37 | SUCCESS  | ✅ Signup agent completed successfully
+2026-09-12 09:10:37 | SUCCESS  | ✅ LinkedIn signup completed successfully!
+2026-09-12 09:10:38 | INFO     | 📌 Browser remains open for verification if needed. Press Ctrl+C to close.
+2026-09-12 09:10:48 | INFO     | 🔒 Browser closed
+2026-09-12 09:15:50 | INFO     | 🔒 Browser closed
+2026-09-12 09:18:22 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:18:23 | INFO     | 📝 Starting LinkedIn signup...
+2026-09-12 09:18:29 | INFO     | ✓ Found email field with selector: input[id*="email"]
+2026-09-12 09:18:33 | INFO     | ✓ Email filled: rkoparthiban28@gmail.com
+2026-09-12 09:18:33 | INFO     | ✓ Found password field with selector: input[name="password"]
+2026-09-12 09:18:35 | INFO     | ✓ Password filled
+2026-09-12 09:18:36 | INFO     | ✓ Signup button clicked
+2026-09-12 09:18:39 | SUCCESS  | ✅ Signed up successfully as rkoparthiban28@gmail.com
+2026-09-12 09:18:40 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:18:40 | SUCCESS  | ✅ Signup agent completed successfully
+2026-09-12 09:18:40 | SUCCESS  | ✅ LinkedIn signup completed successfully!
+2026-09-12 09:18:40 | INFO     | 📌 Browser remains open for verification if needed. Press Ctrl+C to close.
+2026-09-12 09:18:42 | INFO     | 🔒 Browser closed
+2026-09-12 09:21:13 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:21:13 | INFO     | 📝 Starting LinkedIn signup...
+2026-09-12 09:21:18 | INFO     | ✓ Found email field with selector: input[id*="email"]
+2026-09-12 09:21:21 | INFO     | ✓ Email filled: rkoparthiban28@gmail.com
+2026-09-12 09:21:21 | INFO     | ✓ Found password field with selector: input[name="password"]
+2026-09-12 09:21:24 | INFO     | ✓ Password filled
+2026-09-12 09:21:24 | INFO     | ✓ Signup button clicked
+2026-09-12 09:21:27 | SUCCESS  | ✅ Signed up successfully as rkoparthiban28@gmail.com
+2026-09-12 09:21:28 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:21:28 | SUCCESS  | ✅ Signup agent completed successfully
+2026-09-12 09:21:28 | SUCCESS  | ✅ LinkedIn signup completed successfully!
+2026-09-12 09:21:28 | INFO     | 📌 Browser remains open for verification if needed. Press Ctrl+C to close.
+2026-09-12 09:21:30 | INFO     | 🔒 Browser closed
+2026-09-12 09:23:48 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:23:48 | INFO     | 📝 Starting LinkedIn signup...
+2026-09-12 09:23:52 | ERROR    | ❌ Could not find email field. Available inputs:
+2026-09-12 09:23:53 | INFO     |    Input 0: id=None, name=csrfToken, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 1: id=input-resend-otp-url, name=resendUrl, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 2: id=None, name=midToken, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 3: id=None, name=session_redirect, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 4: id=None, name=parentPageKey, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 5: id=None, name=pageInstance, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 6: id=None, name=controlId, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 7: id=None, name=session_redirect, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 8: id=None, name=trk, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 9: id=None, name=authUUID, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 10: id=None, name=encrypted_session_key, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 11: id=None, name=loginCsrfParam, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 12: id=None, name=trk, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 13: id=None, name=csrfToken, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 14: id=username, name=session_key, placeholder= 
+2026-09-12 09:23:53 | INFO     |    Input 15: id=None, name=ac, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 16: id=None, name=loginFailureCount, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 17: id=None, name=sIdString, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 18: id=pkSupported, name=pkSupported, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 19: id=None, name=parentPageKey, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 20: id=None, name=pageInstance, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 21: id=None, name=trk, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 22: id=None, name=authUUID, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 23: id=None, name=session_redirect, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 24: id=None, name=loginCsrfParam, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 25: id=fp_data_login, name=fp_data, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 26: id=apfc-login, name=apfc, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 27: id=None, name=_d, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 28: id=None, name=showGoogleOneTapLogin, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 29: id=None, name=showAppleLogin, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 30: id=None, name=showMicrosoftLogin, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 31: id=None, name=controlId, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 32: id=password, name=session_password, placeholder=None
+2026-09-12 09:23:53 | INFO     |    Input 33: id=rememberMeOptIn-checkbox, name=rememberMeOptIn, placeholder=None
+2026-09-12 09:23:54 | INFO     | 🔒 Browser closed
+2026-09-12 09:25:03 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:25:03 | INFO     | 📝 Starting LinkedIn login/signup...
+2026-09-12 09:25:07 | DEBUG    | Current URL: https://www.linkedin.com/login/
+2026-09-12 09:25:07 | INFO     | ✓ Found email field with selector: #username
+2026-09-12 09:25:08 | INFO     | ✓ Email filled: rkoparthiban28@gmail.com
+2026-09-12 09:25:08 | INFO     | ✓ Found password field with selector: #password
+2026-09-12 09:25:10 | INFO     | ✓ Password filled
+2026-09-12 09:25:10 | INFO     | ✓ Found submit button with selector: button[type="submit"]
+2026-09-12 09:25:12 | INFO     | ✓ Sign-in button clicked
+2026-09-12 09:25:15 | SUCCESS  | ✅ Logged in successfully as rkoparthiban28@gmail.com
+2026-09-12 09:25:17 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:25:17 | SUCCESS  | ✅ Authentication agent completed successfully
+2026-09-12 09:25:17 | SUCCESS  | ✅ LinkedIn signup completed successfully!
+2026-09-12 09:25:17 | INFO     | 📌 Browser remains open for verification if needed. Press Ctrl+C to close.
+2026-09-12 09:25:18 | INFO     | 🔒 Browser closed
+2026-09-12 09:25:57 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:25:57 | INFO     | 📝 Starting LinkedIn login/signup...
+2026-09-12 09:26:05 | DEBUG    | Current URL: https://www.linkedin.com/feed/
+2026-09-12 09:26:06 | ERROR    | ❌ Could not find email field. Available inputs:
+2026-09-12 09:26:06 | INFO     |    Input 0: id=«r6», name=None, type=None, placeholder=Search, visible=True
+2026-09-12 09:26:06 | INFO     |    Input 1: id=«r1n», name=reason, type=radio, placeholder=None, visible=False
+2026-09-12 09:26:06 | INFO     |    Input 2: id=«r1o», name=reason, type=radio, placeholder=None, visible=False
+2026-09-12 09:26:07 | INFO     | 🔒 Browser closed
+2026-09-12 09:30:42 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:30:42 | INFO     | 📝 Checking LinkedIn authentication status...
+2026-09-12 09:30:48 | SUCCESS  | ✅ Already signed in - session is valid!
+2026-09-12 09:30:48 | INFO     |    Current page: https://www.linkedin.com/feed/
+2026-09-12 09:30:49 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:30:49 | SUCCESS  | ✅ Authentication agent completed successfully
+2026-09-12 09:30:49 | INFO     | 
+🚀 Proceeding to job search...
+2026-09-12 09:30:50 | INFO     | 🔍 Searching for: AI automation jobs
+2026-09-12 09:30:57 | ERROR    | ❌ Could not find job search input
+2026-09-12 09:30:57 | SUCCESS  | ✅ LinkedIn signup completed successfully!
+2026-09-12 09:30:57 | INFO     | 📌 Browser remains open for verification if needed. Press Ctrl+C to close.
+2026-09-12 09:30:58 | INFO     | 🔒 Browser closed
+2026-09-12 09:31:17 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:31:18 | INFO     | 📝 Checking LinkedIn authentication status...
+2026-09-12 09:31:24 | SUCCESS  | ✅ Already signed in - session is valid!
+2026-09-12 09:31:24 | INFO     |    Current page: https://www.linkedin.com/feed/
+2026-09-12 09:31:24 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:31:24 | SUCCESS  | ✅ Authentication agent completed successfully
+2026-09-12 09:31:24 | INFO     | 
+🚀 Proceeding to job search...
+2026-09-12 09:31:26 | INFO     | 🔍 Searching for: AI automation jobs
+2026-09-12 09:31:26 | INFO     |    Navigating to: https://www.linkedin.com/jobs/search/?keywords=AI%20automation%20jobs
+2026-09-12 09:31:35 | SUCCESS  | ✅ Job search completed for: AI automation jobs
+2026-09-12 09:31:35 | INFO     |    Results page: https://www.linkedin.com/jobs/search/?currentJobId=4456905263&keywords=AI%20automation%20jobs
+2026-09-12 09:31:35 | INFO     |    You can now browse and apply for jobs on this page.
+2026-09-12 09:31:35 | SUCCESS  | ✅ LinkedIn signup completed successfully!
+2026-09-12 09:31:35 | INFO     | 📌 Browser remains open for verification if needed. Press Ctrl+C to close.
+2026-09-12 09:31:36 | INFO     | 🔒 Browser closed
+2026-09-12 09:31:57 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:31:57 | INFO     | 📝 Checking LinkedIn authentication status...
+2026-09-12 09:32:03 | SUCCESS  | ✅ Already signed in - session is valid!
+2026-09-12 09:32:03 | INFO     |    Current page: https://www.linkedin.com/feed/
+2026-09-12 09:32:04 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:32:04 | SUCCESS  | ✅ Authentication agent completed successfully
+2026-09-12 09:32:04 | INFO     | 
+🚀 Proceeding to job search...
+2026-09-12 09:32:06 | INFO     | 🔍 Searching for: AI automation jobs
+2026-09-12 09:32:06 | INFO     |    Navigating to: https://www.linkedin.com/jobs/search/?keywords=AI%20automation%20jobs
+2026-09-12 09:32:15 | SUCCESS  | ✅ Job search completed for: AI automation jobs
+2026-09-12 09:32:15 | INFO     |    Results page: https://www.linkedin.com/jobs/search/?currentJobId=4456905263&keywords=AI%20automation%20jobs
+2026-09-12 09:32:15 | INFO     |    You can now browse and apply for jobs on this page.
+2026-09-12 09:32:15 | SUCCESS  | ✅ LinkedIn signup completed successfully!
+2026-09-12 09:32:15 | INFO     | 📌 Browser remains open for verification if needed. Press Ctrl+C to close.
+2026-09-12 09:32:15 | INFO     | 🔒 Browser closed
+2026-09-12 09:46:28 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 09:47:19 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 09:48:34 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 09:48:36 | INFO     | ✅ Restored browser session from disk
+2026-09-12 09:48:43 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 09:48:43 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 09:48:43 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 09:48:51 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 09:49:03 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:49:13 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:49:24 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:49:34 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:49:45 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:49:55 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:50:05 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:50:15 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:50:26 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:50:36 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:50:47 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:50:57 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:51:08 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:51:19 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:51:29 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:51:39 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:51:49 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:51:59 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:52:10 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:52:20 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:52:31 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:52:40 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:52:51 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:53:01 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:53:12 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:53:16 | INFO     | 📋 Found 25 job cards on page 2
+2026-09-12 09:53:26 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:53:36 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:53:46 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:53:57 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:54:08 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:54:17 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:54:28 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:54:38 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:54:49 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:55:00 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:55:11 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:55:22 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:55:32 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:55:42 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:55:52 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:56:03 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:56:14 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:56:23 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:56:34 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:56:44 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:56:55 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:57:05 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:57:16 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:57:26 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:57:36 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:57:40 | INFO     | 📋 Found 25 job cards on page 3
+2026-09-12 09:57:51 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:58:01 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:58:11 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:58:22 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:58:33 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:58:42 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:58:53 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:59:04 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:59:14 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:59:25 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:59:36 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:59:46 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 09:59:55 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:00:06 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:00:16 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:00:27 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:00:37 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:00:48 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:00:58 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:01:08 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:01:18 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:01:28 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:01:39 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:01:50 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:02:00 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:02:05 | INFO     | 📋 Found 25 job cards on page 4
+2026-09-12 10:02:14 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:02:24 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:02:35 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:02:45 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:02:55 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:03:05 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:03:16 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:03:26 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:03:36 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:03:47 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:03:57 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:04:07 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:04:19 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:04:28 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:04:39 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:04:50 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:05:00 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:05:10 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:05:21 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:05:31 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:05:42 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:05:52 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:06:03 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:06:12 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:06:23 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:06:28 | INFO     | 📋 Found 25 job cards on page 5
+2026-09-12 10:06:38 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:06:49 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:06:59 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:07:09 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:07:20 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:07:30 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:07:41 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:07:52 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:08:02 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:08:13 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:08:23 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:08:34 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:08:45 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:08:55 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:09:05 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:09:15 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:09:27 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:09:36 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:09:47 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:09:57 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:10:08 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:10:18 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:10:28 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:10:38 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:10:48 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:10:53 | INFO     | 📋 Found 25 job cards on page 6
+2026-09-12 10:11:03 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:11:07 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 10:11:13 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:11:23 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:11:34 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:11:40 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 10:11:44 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:11:54 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:12:04 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:12:14 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-12 10:12:14 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 10:12:14 | INFO     | ✅ Database initialized
+2026-09-12 10:12:14 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-12 10:12:14 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:12:16 | INFO     | ✅ Restored browser session from disk
+2026-09-12 10:12:23 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 10:12:23 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 10:12:23 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-12 10:12:23 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 10:12:25 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:12:34 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 10:12:35 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:12:38 | INFO     | ✅ [1/30] Queued: Product Security Engineer (Remote) @ Hire Feed
+2026-09-12 10:12:41 | INFO     | ✅ [2/30] Queued: Data Engineer (Machine Learning) (Remote) @ Quik Hire Staffing
+2026-09-12 10:12:45 | INFO     | ✅ [3/30] Queued: Principal SOC Physical Verification & Integration Specialist @ Mulya Technologies
+2026-09-12 10:12:47 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:12:50 | INFO     | ✅ [4/30] Queued: Artificial Intelligence Engineer (Remote) @ Hired
+2026-09-12 10:12:53 | INFO     | ✅ [5/30] Queued: Interactive Web Developer (Contract-to-Perm) — 3D, Motion & HW-SW | Three.js · WebGL · GSAP · Framer @ Antariksha Labs
+2026-09-12 10:12:57 | INFO     | ✅ [6/30] Queued: Sr. Administrator, Appeals, Appeals @ Amazon
+2026-09-12 10:12:58 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:13:01 | INFO     | ✅ [7/30] Queued: Healthcare AI Platform Full-Stack Engineer @ HEALTHFLO
+2026-09-12 10:13:04 | INFO     | ✅ [8/30] Queued: Senior Software Engineer –Agentic AI / GenAI @ Talentgigs
+2026-09-12 10:13:09 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:13:14 | INFO     | ✅ [9/30] Queued: Software Developer (PHP+React) @ Netrolynx AI
+2026-09-12 10:13:17 | INFO     | ✅ [10/30] Queued: Data Scientist @ FetchJobs.co
+2026-09-12 10:13:20 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:13:22 | INFO     | ✅ [11/30] Queued: Chief of Staff (Office of the CBO) @ Firework
+2026-09-12 10:13:26 | INFO     | ✅ [12/30] Queued: Sr Materials Mgmt Analyst @ Honeywell Technologies
+2026-09-12 10:13:30 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:13:30 | INFO     | ✅ [13/30] Queued: Senior Machine Learning Engineer (Bangalore/Noida Location) @ Level AI
+2026-09-12 10:13:34 | INFO     | ✅ [14/30] Queued: Presales senior data engineer @ JobCrexa
+2026-09-12 10:13:40 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:13:42 | INFO     | ✅ [15/30] Queued: E2E Spare Parts Solution Architect @ Collaborative Mind, LLC ("CMIND"​)
+2026-09-12 10:13:48 | INFO     | ✅ [16/30] Queued: Natural Language Processing Engineer @ Moleculyst
+2026-09-12 10:13:52 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:13:53 | INFO     | ✅ [17/30] Queued: Engineering Manager, Authorization - India @ JumpCloud
+2026-09-12 10:13:56 | INFO     | ✅ [18/30] Queued: Data Engineer @ Dexian
+2026-09-12 10:14:00 | INFO     | ✅ [19/30] Queued: Databricks Solution Engineer @ CloudTech Innovations
+2026-09-12 10:14:02 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:14:05 | INFO     | ✅ [20/30] Queued: Freelance AI Engineer @ Flexing It®
+2026-09-12 10:14:12 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:14:13 | INFO     | ✅ [21/30] Queued: AI Engineer @ Collabera
+2026-09-12 10:14:18 | INFO     | ✅ [22/30] Queued: Senior Technical Specialist, AI Solutions : Delhi @ DevRev
+2026-09-12 10:14:22 | INFO     | ✅ [23/30] Queued: Lead Software Engineer - AI Automation @ Top Gen AI Jobs
+2026-09-12 10:14:24 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:14:28 | INFO     | ✅ [24/30] Queued: Machine Learning Intern | Entry Level | Fresher | Python, Machine Learning, Scikit-learn | Remote @ Crossing Infotech
+2026-09-12 10:14:33 | INFO     | ✅ [25/30] Queued: Freelance/Contractual : IDP Software Engineer (Port – IO) 8+ years Exp @ Qzensys Solutions
+2026-09-12 10:14:34 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:14:39 | INFO     | 📋 Found 25 job cards on page 2
+2026-09-12 10:14:42 | INFO     | ✅ [26/30] Queued: Technical Project Lead (Remote) @ Hire Feed
+2026-09-12 10:14:45 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:14:46 | INFO     | ✅ [27/30] Queued: Senior AI Software Engineer (Remote) @ Quik Hire Staffing
+2026-09-12 10:14:50 | INFO     | ✅ [28/30] Queued: AI Engineer @ Hired
+2026-09-12 10:14:54 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:14:54 | INFO     | ✅ [29/30] Queued: Web Developer @ Netrolynx AI
+2026-09-12 10:14:59 | INFO     | ✅ [30/30] Queued: Data Engineer @ FetchJobs.co
+2026-09-12 10:15:05 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:15:06 | SUCCESS  | 🎯 Scraping complete: 30 new jobs queued
+2026-09-12 10:15:06 | INFO     | 📋 Scraped 30 new jobs
+2026-09-12 10:15:06 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-12 10:15:06 | INFO     | ✍️  Tailoring resumes for 30 jobs (concurrency=3)
+2026-09-12 10:15:07 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-12 10:15:07 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:07 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Hire_Feed_Product_Security_Engineer__Remote__20260912_101507.pdf
+2026-09-12 10:15:07 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:07 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Quik_Hire_Staffing_Data_Engineer__Machine_Learning___Remote__20260912_101507.pdf
+2026-09-12 10:15:07 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:07 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Mulya_Technologies_Principal_SOC_Physical_Verification___Int_20260912_101507.pdf
+2026-09-12 10:15:07 | SUCCESS  | 📄 Tailored resume ready: Hire_Feed_Product_Security_Engineer__Remote__20260912_101507.pdf
+2026-09-12 10:15:07 | SUCCESS  | 📄 Tailored resume ready: Quik_Hire_Staffing_Data_Engineer__Machine_Learning___Remote__20260912_101507.pdf
+2026-09-12 10:15:07 | SUCCESS  | 📄 Tailored resume ready: Mulya_Technologies_Principal_SOC_Physical_Verification___Int_20260912_101507.pdf
+2026-09-12 10:15:07 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:07 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Hired_Artificial_Intelligence_Engineer__Remote__20260912_101507.pdf
+2026-09-12 10:15:07 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:07 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Antariksha_Labs_Interactive_Web_Developer__Contract-to-Perm__20260912_101507.pdf
+2026-09-12 10:15:07 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Amazon_Sr__Administrator__Appeals__Appeals_20260912_101507.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Hired_Artificial_Intelligence_Engineer__Remote__20260912_101507.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Antariksha_Labs_Interactive_Web_Developer__Contract-to-Perm__20260912_101507.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Amazon_Sr__Administrator__Appeals__Appeals_20260912_101507.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\HEALTHFLO_Healthcare_AI_Platform_Full-Stack_Engineer_20260912_101508.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Talentgigs_Senior_Software_Engineer__Agentic_AI___GenAI_20260912_101508.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Netrolynx_AI_Software_Developer__PHP_React__20260912_101508.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: HEALTHFLO_Healthcare_AI_Platform_Full-Stack_Engineer_20260912_101508.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Netrolynx_AI_Software_Developer__PHP_React__20260912_101508.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Talentgigs_Senior_Software_Engineer__Agentic_AI___GenAI_20260912_101508.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\FetchJobs_co_Data_Scientist_20260912_101508.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Firework_Chief_of_Staff__Office_of_the_CBO__20260912_101508.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Honeywell_Technologies_Sr_Materials_Mgmt_Analyst_20260912_101508.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: FetchJobs_co_Data_Scientist_20260912_101508.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Firework_Chief_of_Staff__Office_of_the_CBO__20260912_101508.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Level_AI_Senior_Machine_Learning_Engineer__Bangalore_Noida_L_20260912_101508.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Honeywell_Technologies_Sr_Materials_Mgmt_Analyst_20260912_101508.pdf
+2026-09-12 10:15:08 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:08 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\JobCrexa_Presales_senior_data_engineer_20260912_101508.pdf
+2026-09-12 10:15:08 | SUCCESS  | 📄 Tailored resume ready: Level_AI_Senior_Machine_Learning_Engineer__Bangalore_Noida_L_20260912_101508.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: JobCrexa_Presales_senior_data_engineer_20260912_101508.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\JumpCloud_Engineering_Manager__Authorization_-_India_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Moleculyst_Natural_Language_Processing_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: JumpCloud_Engineering_Manager__Authorization_-_India_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Moleculyst_Natural_Language_Processing_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Collaborative_Mind__LLC___CMIND____E2E_Spare_Parts_Solution__20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Dexian_Data_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\CloudTech_Innovations_Databricks_Solution_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Collaborative_Mind__LLC___CMIND____E2E_Spare_Parts_Solution__20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Flexing_It__Freelance_AI_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Dexian_Data_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: CloudTech_Innovations_Databricks_Solution_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Flexing_It__Freelance_AI_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Collabera_AI_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Top_Gen_AI_Jobs_Lead_Software_Engineer_-_AI_Automation_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\DevRev_Senior_Technical_Specialist__AI_Solutions___Delhi_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Collabera_AI_Engineer_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Top_Gen_AI_Jobs_Lead_Software_Engineer_-_AI_Automation_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Crossing_Infotech_Machine_Learning_Intern___Entry_Level___Fr_20260912_101509.pdf
+2026-09-12 10:15:09 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:09 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Qzensys_Solutions_Freelance_Contractual___IDP_Software_Engin_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: DevRev_Senior_Technical_Specialist__AI_Solutions___Delhi_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Crossing_Infotech_Machine_Learning_Intern___Entry_Level___Fr_20260912_101509.pdf
+2026-09-12 10:15:09 | SUCCESS  | 📄 Tailored resume ready: Qzensys_Solutions_Freelance_Contractual___IDP_Software_Engin_20260912_101509.pdf
+2026-09-12 10:15:10 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:10 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Quik_Hire_Staffing_Senior_AI_Software_Engineer__Remote__20260912_101510.pdf
+2026-09-12 10:15:10 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:10 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Hire_Feed_Technical_Project_Lead__Remote__20260912_101510.pdf
+2026-09-12 10:15:10 | SUCCESS  | 📄 Tailored resume ready: Quik_Hire_Staffing_Senior_AI_Software_Engineer__Remote__20260912_101510.pdf
+2026-09-12 10:15:10 | SUCCESS  | 📄 Tailored resume ready: Hire_Feed_Technical_Project_Lead__Remote__20260912_101510.pdf
+2026-09-12 10:15:10 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:10 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Netrolynx_AI_Web_Developer_20260912_101510.pdf
+2026-09-12 10:15:10 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:10 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Hired_AI_Engineer_20260912_101510.pdf
+2026-09-12 10:15:10 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-12 10:15:10 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\FetchJobs_co_Data_Engineer_20260912_101510.pdf
+2026-09-12 10:15:10 | SUCCESS  | 📄 Tailored resume ready: Netrolynx_AI_Web_Developer_20260912_101510.pdf
+2026-09-12 10:15:10 | SUCCESS  | 📄 Tailored resume ready: FetchJobs_co_Data_Engineer_20260912_101510.pdf
+2026-09-12 10:15:10 | SUCCESS  | 📄 Tailored resume ready: Hired_AI_Engineer_20260912_101510.pdf
+2026-09-12 10:15:10 | SUCCESS  | ✅ Resume tailoring complete: 30/30 succeeded
+2026-09-12 10:15:10 | INFO     | ✍️  Tailored 30 resumes
+2026-09-12 10:15:10 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-12 10:15:10 | INFO     | 🚀 Applying to: Product Security Engineer (Remote) @ Hire Feed
+2026-09-12 10:15:15 | WARNING  | ⚠️ Failed to scrape job card: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator(".jobs-unified-top-card, .jobs-details-top-card") to be visible
+
+2026-09-12 10:15:15 | INFO     | 📄 No more pages
+2026-09-12 10:15:15 | SUCCESS  | 🎯 Scraping complete: 0 new jobs queued
+2026-09-12 10:15:15 | SUCCESS  | ✅ Stored 0 new jobs to database
+2026-09-12 10:15:18 | INFO     | 🔒 Browser closed
+2026-09-12 10:15:22 | ERROR    | ❌ Apply failed for Product Security Engineer (Remote) @ Hire Feed: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:15:27 | INFO     | 🚀 Applying to: Data Engineer (Machine Learning) (Remote) @ Quik Hire Staffing
+2026-09-12 10:15:39 | ERROR    | ❌ Apply failed for Data Engineer (Machine Learning) (Remote) @ Quik Hire Staffing: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:15:44 | INFO     | 🚀 Applying to: Principal SOC Physical Verification & Integration Specialist @ Mulya Technologies
+2026-09-12 10:15:56 | ERROR    | ❌ Apply failed for Principal SOC Physical Verification & Integration Specialist @ Mulya Technologies: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:15:59 | INFO     | 🚀 Applying to: Artificial Intelligence Engineer (Remote) @ Hired
+2026-09-12 10:16:11 | ERROR    | ❌ Apply failed for Artificial Intelligence Engineer (Remote) @ Hired: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:16:14 | INFO     | 🚀 Applying to: Interactive Web Developer (Contract-to-Perm) — 3D, Motion & HW-SW | Three.js · WebGL · GSAP · Framer @ Antariksha Labs
+2026-09-12 10:16:26 | ERROR    | ❌ Apply failed for Interactive Web Developer (Contract-to-Perm) — 3D, Motion & HW-SW | Three.js · WebGL · GSAP · Framer @ Antariksha Labs: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:16:31 | INFO     | 🚀 Applying to: Sr. Administrator, Appeals, Appeals @ Amazon
+2026-09-12 10:16:43 | ERROR    | ❌ Apply failed for Sr. Administrator, Appeals, Appeals @ Amazon: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:16:47 | INFO     | 🚀 Applying to: Healthcare AI Platform Full-Stack Engineer @ HEALTHFLO
+2026-09-12 10:16:59 | ERROR    | ❌ Apply failed for Healthcare AI Platform Full-Stack Engineer @ HEALTHFLO: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:17:03 | INFO     | 🚀 Applying to: Senior Software Engineer –Agentic AI / GenAI @ Talentgigs
+2026-09-12 10:17:14 | ERROR    | ❌ Apply failed for Senior Software Engineer –Agentic AI / GenAI @ Talentgigs: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:17:21 | INFO     | 🚀 Applying to: Software Developer (PHP+React) @ Netrolynx AI
+2026-09-12 10:17:33 | ERROR    | ❌ Apply failed for Software Developer (PHP+React) @ Netrolynx AI: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:17:38 | INFO     | 🚀 Applying to: Data Scientist @ FetchJobs.co
+2026-09-12 10:17:49 | ERROR    | ❌ Apply failed for Data Scientist @ FetchJobs.co: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:17:55 | INFO     | 🚀 Applying to: Chief of Staff (Office of the CBO) @ Firework
+2026-09-12 10:18:07 | ERROR    | ❌ Apply failed for Chief of Staff (Office of the CBO) @ Firework: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:18:13 | INFO     | 🚀 Applying to: Sr Materials Mgmt Analyst @ Honeywell Technologies
+2026-09-12 10:18:26 | ERROR    | ❌ Apply failed for Sr Materials Mgmt Analyst @ Honeywell Technologies: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:18:32 | INFO     | 🚀 Applying to: Senior Machine Learning Engineer (Bangalore/Noida Location) @ Level AI
+2026-09-12 10:18:43 | ERROR    | ❌ Apply failed for Senior Machine Learning Engineer (Bangalore/Noida Location) @ Level AI: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:18:47 | INFO     | 🚀 Applying to: Presales senior data engineer @ JobCrexa
+2026-09-12 10:19:00 | ERROR    | ❌ Apply failed for Presales senior data engineer @ JobCrexa: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:19:03 | INFO     | 🚀 Applying to: E2E Spare Parts Solution Architect @ Collaborative Mind, LLC ("CMIND"​)
+2026-09-12 10:19:15 | ERROR    | ❌ Apply failed for E2E Spare Parts Solution Architect @ Collaborative Mind, LLC ("CMIND"​): Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:19:20 | INFO     | 🚀 Applying to: Natural Language Processing Engineer @ Moleculyst
+2026-09-12 10:19:32 | ERROR    | ❌ Apply failed for Natural Language Processing Engineer @ Moleculyst: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:19:38 | INFO     | 🚀 Applying to: Engineering Manager, Authorization - India @ JumpCloud
+2026-09-12 10:19:50 | ERROR    | ❌ Apply failed for Engineering Manager, Authorization - India @ JumpCloud: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:19:56 | INFO     | 🚀 Applying to: Data Engineer @ Dexian
+2026-09-12 10:20:08 | ERROR    | ❌ Apply failed for Data Engineer @ Dexian: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:20:13 | INFO     | 🚀 Applying to: Databricks Solution Engineer @ CloudTech Innovations
+2026-09-12 10:20:23 | DEBUG    |   → Form step 1
+2026-09-12 10:20:25 | DEBUG    |   → Form step 2
+2026-09-12 10:20:26 | WARNING  | ⚠️ No navigation button found at step 2
+2026-09-12 10:20:26 | WARNING  | ⚠️ Max steps reached without submission for: Databricks Solution Engineer
+2026-09-12 10:20:29 | INFO     | 🚀 Applying to: Freelance AI Engineer @ Flexing It®
+2026-09-12 10:20:41 | ERROR    | ❌ Apply failed for Freelance AI Engineer @ Flexing It®: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:20:45 | INFO     | 🚀 Applying to: AI Engineer @ Collabera
+2026-09-12 10:20:56 | ERROR    | ❌ Apply failed for AI Engineer @ Collabera: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:21:02 | INFO     | 🚀 Applying to: Senior Technical Specialist, AI Solutions : Delhi @ DevRev
+2026-09-12 10:21:13 | ERROR    | ❌ Apply failed for Senior Technical Specialist, AI Solutions : Delhi @ DevRev: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:21:18 | INFO     | 🚀 Applying to: Lead Software Engineer - AI Automation @ Top Gen AI Jobs
+2026-09-12 10:21:30 | ERROR    | ❌ Apply failed for Lead Software Engineer - AI Automation @ Top Gen AI Jobs: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:21:35 | INFO     | 🚀 Applying to: Machine Learning Intern | Entry Level | Fresher | Python, Machine Learning, Scikit-learn | Remote @ Crossing Infotech
+2026-09-12 10:21:47 | ERROR    | ❌ Apply failed for Machine Learning Intern | Entry Level | Fresher | Python, Machine Learning, Scikit-learn | Remote @ Crossing Infotech: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:21:53 | INFO     | 🚀 Applying to: Freelance/Contractual : IDP Software Engineer (Port – IO) 8+ years Exp @ Qzensys Solutions
+2026-09-12 10:22:05 | ERROR    | ❌ Apply failed for Freelance/Contractual : IDP Software Engineer (Port – IO) 8+ years Exp @ Qzensys Solutions: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:22:11 | INFO     | 🚀 Applying to: Technical Project Lead (Remote) @ Hire Feed
+2026-09-12 10:22:23 | ERROR    | ❌ Apply failed for Technical Project Lead (Remote) @ Hire Feed: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:22:30 | INFO     | 🚀 Applying to: Senior AI Software Engineer (Remote) @ Quik Hire Staffing
+2026-09-12 10:22:41 | ERROR    | ❌ Apply failed for Senior AI Software Engineer (Remote) @ Quik Hire Staffing: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:22:48 | INFO     | 🚀 Applying to: AI Engineer @ Hired
+2026-09-12 10:22:59 | ERROR    | ❌ Apply failed for AI Engineer @ Hired: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:23:03 | INFO     | 🚀 Applying to: Web Developer @ Netrolynx AI
+2026-09-12 10:23:15 | ERROR    | ❌ Apply failed for Web Developer @ Netrolynx AI: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:23:20 | INFO     | 🚀 Applying to: Data Engineer @ FetchJobs.co
+2026-09-12 10:23:31 | ERROR    | ❌ Apply failed for Data Engineer @ FetchJobs.co: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:23:37 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 30
+2026-09-12 10:23:37 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : DRY RUN                        ║
+║  Duration    : 683.2s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 30                           ║
+║    Resumes made: 30                           ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 30                           ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 0                            ║
+║    Pending     : 0                            ║
+║    Failed      : 30                           ║
+╚══════════════════════════════════════════════╝
+
+2026-09-12 10:23:38 | INFO     | 🔒 Browser closed
+2026-09-12 10:28:55 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-12 10:28:55 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 10:28:55 | INFO     | ✅ Database initialized
+2026-09-12 10:28:55 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-12 10:28:58 | INFO     | ✅ Restored browser session from disk
+2026-09-12 10:29:04 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 10:29:06 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 10:29:06 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-12 10:29:06 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 10:29:21 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 10:29:25 | INFO     | ✅ [1/2] Queued: Senior AI Developer @ Sky BlackBox
+2026-09-12 10:29:31 | INFO     | ✅ [2/2] Queued: Data Engineer @ Talentgigs
+2026-09-12 10:29:36 | SUCCESS  | 🎯 Scraping complete: 2 new jobs queued
+2026-09-12 10:29:36 | INFO     | 📋 Scraped 2 new jobs
+2026-09-12 10:29:36 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-12 10:29:36 | INFO     | ✍️  Tailoring resumes for 2 jobs (concurrency=3)
+2026-09-12 10:29:37 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-12 10:29:37 | INFO     | 🧠 Tailoring resume for: Senior AI Developer @ Sky BlackBox
+2026-09-12 10:29:37 | INFO     | 🧠 Tailoring resume for: Data Engineer @ Talentgigs
+2026-09-12 10:29:57 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:29:57 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Talentgigs_Data_Engineer_20260912_102957.pdf
+2026-09-12 10:29:58 | SUCCESS  | 📄 Tailored resume ready: Talentgigs_Data_Engineer_20260912_102957.pdf
+2026-09-12 10:29:59 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:29:59 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Sky_BlackBox_Senior_AI_Developer_20260912_102959.pdf
+2026-09-12 10:29:59 | SUCCESS  | 📄 Tailored resume ready: Sky_BlackBox_Senior_AI_Developer_20260912_102959.pdf
+2026-09-12 10:29:59 | SUCCESS  | ✅ Resume tailoring complete: 2/2 succeeded
+2026-09-12 10:29:59 | INFO     | ✍️  Tailored 2 resumes
+2026-09-12 10:29:59 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-12 10:29:59 | INFO     | 🚀 Applying to: Senior AI Developer @ Sky BlackBox
+2026-09-12 10:30:11 | ERROR    | ❌ Apply failed for Senior AI Developer @ Sky BlackBox: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:30:14 | INFO     | 🚀 Applying to: Data Engineer @ Talentgigs
+2026-09-12 10:30:27 | ERROR    | ❌ Apply failed for Data Engineer @ Talentgigs: Page.wait_for_selector: Timeout 8000ms exceeded.
+Call log:
+  - waiting for locator("button.jobs-apply-button[aria-label*='Easy Apply'], button[aria-label*='Easy Apply'], .jobs-apply-button--top-card, button.jobs-apply-button, button:has-text('Easy Apply')") to be visible
+
+2026-09-12 10:30:34 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 2
+2026-09-12 10:30:34 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : DRY RUN                        ║
+║  Duration    : 99.7s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 2                            ║
+║    Resumes made: 2                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 2                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 0                            ║
+║    Pending     : 0                            ║
+║    Failed      : 32                           ║
+╚══════════════════════════════════════════════╝
+
+2026-09-12 10:30:35 | INFO     | 🔒 Browser closed
+2026-09-12 10:34:35 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-12 10:34:35 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 10:34:35 | INFO     | ✅ Database initialized
+2026-09-12 10:34:35 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-12 10:34:38 | INFO     | ✅ Restored browser session from disk
+2026-09-12 10:34:45 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 10:34:46 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 10:34:46 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-12 10:34:46 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 10:35:00 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 10:35:04 | DEBUG    | ⏭️  Already seen: Senior AI Developer
+2026-09-12 10:35:08 | DEBUG    | ⏭️  Already seen: Data Engineer
+2026-09-12 10:35:11 | DEBUG    | ⏭️  Already seen: Data Engineer (Machine Learning) (Remote)
+2026-09-12 10:35:15 | DEBUG    | ⏭️  Already seen: Artificial Intelligence Engineer (Remote)
+2026-09-12 10:35:18 | INFO     | ✅ [1/2] Queued: Principal Research Engineer, Applied AI @ EnCharge AI
+2026-09-12 10:35:23 | INFO     | ✅ [2/2] Queued: AI Agent Engineer (Remote) @ Hire Feed
+2026-09-12 10:35:30 | SUCCESS  | 🎯 Scraping complete: 2 new jobs queued
+2026-09-12 10:35:30 | INFO     | 📋 Scraped 2 new jobs
+2026-09-12 10:35:30 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-12 10:35:30 | INFO     | ✍️  Tailoring resumes for 2 jobs (concurrency=3)
+2026-09-12 10:35:31 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-12 10:35:31 | INFO     | 🧠 Tailoring resume for: Principal Research Engineer, Applied AI @ EnCharge AI
+2026-09-12 10:35:31 | INFO     | 🧠 Tailoring resume for: AI Agent Engineer (Remote) @ Hire Feed
+2026-09-12 10:35:45 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:35:45 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\EnCharge_AI_Principal_Research_Engineer__Applied_AI_20260912_103545.pdf
+2026-09-12 10:35:45 | SUCCESS  | 📄 Tailored resume ready: EnCharge_AI_Principal_Research_Engineer__Applied_AI_20260912_103545.pdf
+2026-09-12 10:35:49 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:35:50 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Hire_Feed_AI_Agent_Engineer__Remote__20260912_103549.pdf
+2026-09-12 10:35:50 | SUCCESS  | 📄 Tailored resume ready: Hire_Feed_AI_Agent_Engineer__Remote__20260912_103549.pdf
+2026-09-12 10:35:50 | SUCCESS  | ✅ Resume tailoring complete: 2/2 succeeded
+2026-09-12 10:35:50 | INFO     | ✍️  Tailored 2 resumes
+2026-09-12 10:35:50 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-12 10:35:50 | INFO     | 🌵 DRY RUN — Would apply to: Principal Research Engineer, Applied AI @ EnCharge AI
+2026-09-12 10:35:56 | INFO     | 🌵 DRY RUN — Would apply to: AI Agent Engineer (Remote) @ Hire Feed
+2026-09-12 10:36:02 | SUCCESS  | 📊 Apply agent done — Applied: 2 | Skipped: 0 | Failed: 0
+2026-09-12 10:36:02 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : DRY RUN                        ║
+║  Duration    : 87.0s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 2                            ║
+║    Resumes made: 2                            ║
+║    Applied     : 2                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 0                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 2                            ║
+║    Pending     : 0                            ║
+║    Failed      : 32                           ║
+╚══════════════════════════════════════════════╝
+
+2026-09-12 10:36:03 | INFO     | 🔒 Browser closed
+2026-09-12 10:38:03 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-12 10:38:03 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 10:38:03 | INFO     | ✅ Database initialized
+2026-09-12 10:38:03 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-12 10:38:06 | INFO     | ✅ Restored browser session from disk
+2026-09-12 10:38:14 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 10:38:15 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 10:38:15 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-12 10:38:15 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 10:38:35 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 10:38:45 | DEBUG    | ⏭️  Already seen: Product Security Engineer (Remote)
+2026-09-12 10:38:49 | DEBUG    | ⏭️  Already seen: Data Engineer (Machine Learning) (Remote)
+2026-09-12 10:38:52 | DEBUG    | ⏭️  Already seen: Artificial Intelligence Engineer (Remote)
+2026-09-12 10:38:57 | DEBUG    | ⏭️  Already seen: Principal Research Engineer, Applied AI
+2026-09-12 10:39:02 | DEBUG    | ⏭️  Already seen: Interactive Web Developer (Contract-to-Perm) — 3D, Motion & HW-SW | Three.js · WebGL · GSAP · Framer
+2026-09-12 10:39:05 | DEBUG    | ⏭️  Already seen: Senior Software Engineer –Agentic AI / GenAI
+2026-09-12 10:39:08 | DEBUG    | ⏭️  Already seen: Natural Language Processing Engineer
+2026-09-12 10:39:11 | DEBUG    | ⏭️  Already seen: Databricks Solution Engineer
+2026-09-12 10:39:19 | DEBUG    | ⏭️  Already seen: AI Engineer
+2026-09-12 10:39:23 | INFO     | ✅ [1/2] Queued: Founding Engineer @ GrowthOS (EF S26)
+2026-09-12 10:39:28 | INFO     | ✅ [2/2] Queued: Databricks Genie Developer @ Intuition IT – Intuitive Technology Recruitment
+2026-09-12 10:39:33 | SUCCESS  | 🎯 Scraping complete: 2 new jobs queued
+2026-09-12 10:39:33 | INFO     | 📋 Scraped 2 new jobs
+2026-09-12 10:39:33 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-12 10:39:33 | INFO     | ✍️  Tailoring resumes for 2 jobs (concurrency=3)
+2026-09-12 10:39:34 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-12 10:39:34 | INFO     | 🧠 Tailoring resume for: Databricks Genie Developer @ Intuition IT – Intuitive Technology Recruitment
+2026-09-12 10:39:34 | INFO     | 🧠 Tailoring resume for: Founding Engineer @ GrowthOS (EF S26)
+2026-09-12 10:39:53 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:39:53 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\GrowthOS__EF_S26__Founding_Engineer_20260912_103953.pdf
+2026-09-12 10:39:53 | SUCCESS  | 📄 Tailored resume ready: GrowthOS__EF_S26__Founding_Engineer_20260912_103953.pdf
+2026-09-12 10:39:59 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:39:59 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Intuition_IT___Intuitive_Technology_Recruitment_Databricks_G_20260912_103959.pdf
+2026-09-12 10:39:59 | SUCCESS  | 📄 Tailored resume ready: Intuition_IT___Intuitive_Technology_Recruitment_Databricks_G_20260912_103959.pdf
+2026-09-12 10:39:59 | SUCCESS  | ✅ Resume tailoring complete: 2/2 succeeded
+2026-09-12 10:39:59 | INFO     | ✍️  Tailored 2 resumes
+2026-09-12 10:39:59 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-12 10:39:59 | INFO     | 🚀 Applying to: Founding Engineer @ GrowthOS (EF S26)
+2026-09-12 10:40:10 | DEBUG    |   → Form step 1
+2026-09-12 10:40:12 | WARNING  | ⚠️ No navigation button found at step 1
+2026-09-12 10:40:12 | WARNING  | ⚠️ Max steps reached without submission for: Founding Engineer
+2026-09-12 10:40:19 | INFO     | 🚀 Applying to: Databricks Genie Developer @ Intuition IT – Intuitive Technology Recruitment
+2026-09-12 10:40:39 | DEBUG    |   → Form step 1
+2026-09-12 10:40:45 | WARNING  | ⚠️ No navigation button found at step 1
+2026-09-12 10:40:45 | WARNING  | ⚠️ Max steps reached without submission for: Databricks Genie Developer
+2026-09-12 10:40:57 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 2
+2026-09-12 10:40:57 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : LIVE                           ║
+║  Duration    : 174.3s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 2                            ║
+║    Resumes made: 2                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 2                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 2                            ║
+║    Pending     : 2                            ║
+║    Failed      : 32                           ║
+╚══════════════════════════════════════════════╝
+
+2026-09-12 10:40:58 | INFO     | 🔒 Browser closed
+2026-09-12 10:43:22 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-12 10:43:22 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 10:43:22 | INFO     | ✅ Database initialized
+2026-09-12 10:43:22 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-12 10:43:26 | INFO     | ✅ Restored browser session from disk
+2026-09-12 10:43:32 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 10:43:34 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 10:43:34 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-12 10:43:34 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 10:43:47 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 10:43:50 | DEBUG    | ⏭️  Already seen: Data Engineer
+2026-09-12 10:43:53 | DEBUG    | ⏭️  Already seen: Data Engineer (Machine Learning) (Remote)
+2026-09-12 10:43:56 | INFO     | ✅ [1/2] Queued: Principal SOC Physical Verification & Integration Specialist @ EnCharge AI
+2026-09-12 10:43:59 | DEBUG    | ⏭️  Already seen: Artificial Intelligence Engineer (Remote)
+2026-09-12 10:44:02 | DEBUG    | ⏭️  Already seen: Interactive Web Developer (Contract-to-Perm) — 3D, Motion & HW-SW | Three.js · WebGL · GSAP · Framer
+2026-09-12 10:44:05 | DEBUG    | ⏭️  Already seen: AI Agent Engineer (Remote)
+2026-09-12 10:44:07 | DEBUG    | ⏭️  Already seen: Healthcare AI Platform Full-Stack Engineer
+2026-09-12 10:44:10 | DEBUG    | ⏭️  Already seen: Natural Language Processing Engineer
+2026-09-12 10:44:13 | DEBUG    | ⏭️  Already seen: AI Engineer
+2026-09-12 10:44:16 | DEBUG    | ⏭️  Already seen: Founding Engineer
+2026-09-12 10:44:24 | DEBUG    | ⏭️  Already seen: Databricks Genie Developer
+2026-09-12 10:44:28 | INFO     | ✅ [2/2] Queued: Data Engineer – Generative AI @ Latinum HR Solutions
+2026-09-12 10:44:35 | SUCCESS  | 🎯 Scraping complete: 2 new jobs queued
+2026-09-12 10:44:35 | INFO     | 📋 Scraped 2 new jobs
+2026-09-12 10:44:35 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-12 10:44:35 | INFO     | ✍️  Tailoring resumes for 2 jobs (concurrency=3)
+2026-09-12 10:44:36 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-12 10:44:36 | INFO     | 🧠 Tailoring resume for: Data Engineer – Generative AI @ Latinum HR Solutions
+2026-09-12 10:44:36 | INFO     | 🧠 Tailoring resume for: Principal SOC Physical Verification & Integration Specialist @ EnCharge AI
+2026-09-12 10:44:54 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:44:54 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\EnCharge_AI_Principal_SOC_Physical_Verification___Integratio_20260912_104454.pdf
+2026-09-12 10:44:54 | SUCCESS  | 📄 Tailored resume ready: EnCharge_AI_Principal_SOC_Physical_Verification___Integratio_20260912_104454.pdf
+2026-09-12 10:44:58 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 10:44:58 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Latinum_HR_Solutions_Data_Engineer___Generative_AI_20260912_104458.pdf
+2026-09-12 10:44:58 | SUCCESS  | 📄 Tailored resume ready: Latinum_HR_Solutions_Data_Engineer___Generative_AI_20260912_104458.pdf
+2026-09-12 10:44:58 | SUCCESS  | ✅ Resume tailoring complete: 2/2 succeeded
+2026-09-12 10:44:58 | INFO     | ✍️  Tailored 2 resumes
+2026-09-12 10:44:58 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-12 10:44:58 | INFO     | 🚀 Applying to: Principal SOC Physical Verification & Integration Specialist @ EnCharge AI
+2026-09-12 10:45:05 | DEBUG    |   → Form step 1
+2026-09-12 10:45:09 | WARNING  | ⚠️ No navigation button found at step 1
+2026-09-12 10:45:09 | WARNING  | ⚠️ Max steps reached without submission for: Principal SOC Physical Verification & Integration Specialist
+2026-09-12 10:45:15 | INFO     | 🚀 Applying to: Data Engineer – Generative AI @ Latinum HR Solutions
+2026-09-12 10:45:32 | DEBUG    |   → Form step 1
+2026-09-12 10:45:36 | DEBUG    |   → Form step 2
+2026-09-12 10:45:39 | INFO     | 📎 Uploaded resume: Latinum_HR_Solutions_Data_Engineer___Generative_AI_20260912_104458.pdf
+2026-09-12 10:45:40 | DEBUG    |   → Form step 3
+2026-09-12 10:45:41 | DEBUG    |   → Form step 4
+2026-09-12 10:45:42 | DEBUG    |   → Form step 5
+2026-09-12 10:45:44 | DEBUG    |   → Form step 6
+2026-09-12 10:45:45 | DEBUG    |   → Form step 7
+2026-09-12 10:45:47 | DEBUG    |   → Form step 8
+2026-09-12 10:45:48 | DEBUG    |   → Form step 9
+2026-09-12 10:45:50 | DEBUG    |   → Form step 10
+2026-09-12 10:45:51 | WARNING  | ⚠️ Max steps reached without submission for: Data Engineer – Generative AI
+2026-09-12 10:45:58 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 2
+2026-09-12 10:45:58 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : LIVE                           ║
+║  Duration    : 156.5s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 2                            ║
+║    Resumes made: 2                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 2                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 2                            ║
+║    Pending     : 4                            ║
+║    Failed      : 32                           ║
+╚══════════════════════════════════════════════╝
+
+2026-09-12 10:46:00 | INFO     | 🔒 Browser closed
+2026-09-12 11:02:41 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-12 11:02:41 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 11:02:41 | INFO     | ✅ Database initialized
+2026-09-12 11:02:41 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-12 11:02:44 | INFO     | ✅ Restored browser session from disk
+2026-09-12 11:02:51 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 11:02:53 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 11:02:53 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-12 11:02:53 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 11:03:11 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 11:03:19 | INFO     | ✅ [1/2] Queued: Data Engineer - Gen AI & LLM @ Talentgigs
+2026-09-12 11:03:24 | INFO     | ✅ [2/2] Queued: Machine Learning Engineer @ HRM Counsel
+2026-09-12 11:03:30 | SUCCESS  | 🎯 Scraping complete: 2 new jobs queued
+2026-09-12 11:03:30 | INFO     | 📋 Scraped 2 new jobs
+2026-09-12 11:03:30 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-12 11:03:30 | INFO     | ✍️  Tailoring resumes for 2 jobs (concurrency=3)
+2026-09-12 11:03:31 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-12 11:03:31 | INFO     | 🧠 Tailoring resume for: Data Engineer - Gen AI & LLM @ Talentgigs
+2026-09-12 11:03:31 | INFO     | 🧠 Tailoring resume for: Machine Learning Engineer @ HRM Counsel
+2026-09-12 11:04:37 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-12 11:04:37 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-12 11:04:37 | INFO     | ✅ Database initialized
+2026-09-12 11:04:37 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-12 11:04:41 | INFO     | ✅ Restored browser session from disk
+2026-09-12 11:04:48 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-12 11:04:49 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-12 11:04:49 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-12 11:04:49 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-12 11:05:02 | INFO     | 📋 Found 25 job cards on page 1
+2026-09-12 11:05:06 | DEBUG    | ⏭️  Already seen: Data Engineer - Gen AI & LLM
+2026-09-12 11:05:09 | DEBUG    | ⏭️  Already seen: Machine Learning Engineer
+2026-09-12 11:05:13 | INFO     | ✅ [1/2] Queued: Security, Cloud & Technology Internship Program @ Cybernara
+2026-09-12 11:05:17 | DEBUG    | ⏭️  Already seen: Technical Project Lead (Remote)
+2026-09-12 11:05:20 | DEBUG    | ⏭️  Already seen: Artificial Intelligence Engineer (Remote)
+2026-09-12 11:05:23 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 11:05:23 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\HRM_Counsel_Machine_Learning_Engineer_20260912_110523.pdf
+2026-09-12 11:05:23 | SUCCESS  | 📄 Tailored resume ready: HRM_Counsel_Machine_Learning_Engineer_20260912_110523.pdf
+2026-09-12 11:05:24 | DEBUG    | ⏭️  Already seen: Principal Research Engineer, Applied AI
+2026-09-12 11:05:27 | INFO     | ✅ [2/2] Queued: Machine Learning Engineer - Computer Vision (Remote) @ Quik Hire Staffing
+2026-09-12 11:05:32 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 11:05:32 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Talentgigs_Data_Engineer_-_Gen_AI___LLM_20260912_110532.pdf
+2026-09-12 11:05:32 | SUCCESS  | 📄 Tailored resume ready: Talentgigs_Data_Engineer_-_Gen_AI___LLM_20260912_110532.pdf
+2026-09-12 11:05:32 | SUCCESS  | ✅ Resume tailoring complete: 2/2 succeeded
+2026-09-12 11:05:32 | INFO     | ✍️  Tailored 2 resumes
+2026-09-12 11:05:32 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-12 11:05:32 | INFO     | 🚀 Applying to: Data Engineer - Gen AI & LLM @ Talentgigs
+2026-09-12 11:05:33 | SUCCESS  | 🎯 Scraping complete: 2 new jobs queued
+2026-09-12 11:05:33 | INFO     | 📋 Scraped 2 new jobs
+2026-09-12 11:05:33 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-12 11:05:33 | INFO     | ✍️  Tailoring resumes for 2 jobs (concurrency=3)
+2026-09-12 11:05:34 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-12 11:05:34 | INFO     | 🧠 Tailoring resume for: Security, Cloud & Technology Internship Program @ Cybernara
+2026-09-12 11:05:34 | INFO     | 🧠 Tailoring resume for: Machine Learning Engineer - Computer Vision (Remote) @ Quik Hire Staffing
+2026-09-12 11:05:42 | DEBUG    |   → Form step 1
+2026-09-12 11:05:44 | WARNING  | ⚠️ No navigation button found at step 1
+2026-09-12 11:05:44 | WARNING  | ⚠️ Max steps reached without submission for: Data Engineer - Gen AI & LLM
+2026-09-12 11:05:51 | INFO     | 🚀 Applying to: Machine Learning Engineer @ HRM Counsel
+2026-09-12 11:06:12 | DEBUG    |   → Form step 1
+2026-09-12 11:06:21 | DEBUG    |   → Form step 2
+2026-09-12 11:06:23 | INFO     | 📎 Uploaded resume: HRM_Counsel_Machine_Learning_Engineer_20260912_110523.pdf
+2026-09-12 11:06:24 | DEBUG    |   → Form step 3
+2026-09-12 11:06:26 | WARNING  | 
+============================================================
+⏸️  HUMAN REVIEW REQUIRED
+Job: Machine Learning Engineer @ HRM Counsel
+Resume: C:\Users\HP\Downloads\link\data\tailored\HRM_Counsel_Machine_Learning_Engineer_20260912_110523.pdf
+Press ENTER in the terminal to submit, or type 'skip' to skip:
+============================================================
+2026-09-12 11:06:55 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 11:06:55 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Cybernara_Security__Cloud___Technology_Internship_Program_20260912_110655.pdf
+2026-09-12 11:06:55 | SUCCESS  | 📄 Tailored resume ready: Cybernara_Security__Cloud___Technology_Internship_Program_20260912_110655.pdf
+2026-09-12 11:07:01 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-12 11:07:01 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Quik_Hire_Staffing_Machine_Learning_Engineer_-_Computer_Visi_20260912_110701.pdf
+2026-09-12 11:07:01 | SUCCESS  | 📄 Tailored resume ready: Quik_Hire_Staffing_Machine_Learning_Engineer_-_Computer_Visi_20260912_110701.pdf
+2026-09-12 11:07:01 | SUCCESS  | ✅ Resume tailoring complete: 2/2 succeeded
+2026-09-12 11:07:01 | INFO     | ✍️  Tailored 2 resumes
+2026-09-12 11:07:01 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-12 11:07:01 | INFO     | 🚀 Applying to: Security, Cloud & Technology Internship Program @ Cybernara
+2026-09-12 11:07:14 | DEBUG    |   → Form step 1
+2026-09-12 11:07:18 | WARNING  | ⚠️ No navigation button found at step 1
+2026-09-12 11:07:18 | WARNING  | ⚠️ Max steps reached without submission for: Security, Cloud & Technology Internship Program
+2026-09-12 11:07:23 | INFO     | 🚀 Applying to: Machine Learning Engineer - Computer Vision (Remote) @ Quik Hire Staffing
+2026-09-12 11:07:41 | DEBUG    |   → Form step 1
+2026-09-12 11:07:46 | WARNING  | 
+============================================================
+⏸️  HUMAN REVIEW REQUIRED
+Job: Machine Learning Engineer - Computer Vision (Remote) @ Quik Hire Staffing
+Resume: C:\Users\HP\Downloads\link\data\tailored\Quik_Hire_Staffing_Machine_Learning_Engineer_-_Computer_Visi_20260912_110701.pdf
+Press ENTER in the terminal to submit, or type 'skip' to skip:
+============================================================
+2026-09-12 11:09:16 | SUCCESS  | 📊 Apply agent done — Applied: 0 | Skipped: 0 | Failed: 2
+2026-09-12 11:09:16 | INFO     | 
+╔══════════════════════════════════════════════╗
+║        LINKEDIN JOB AGENT — SUMMARY          ║
+╠══════════════════════════════════════════════╣
+║  Mode        : LIVE                           ║
+║  Duration    : 278.4s                            ║
+╠══════════════════════════════════════════════╣
+║  This run:                                   ║
+║    Jobs found  : 2                            ║
+║    Resumes made: 2                            ║
+║    Applied     : 0                            ║
+║    Skipped     : 0                            ║
+║    Failed      : 2                            ║
+╠══════════════════════════════════════════════╣
+║  All-time DB totals:                         ║
+║    Applied     : 2                            ║
+║    Pending     : 7                            ║
+║    Failed      : 32                           ║
+╚══════════════════════════════════════════════╝
+
+2026-09-12 11:09:17 | INFO     | 🔒 Browser closed
+2026-09-13 19:41:11 | INFO     | 
+=======================================================
+  🗄️  Stage 1/5 — Init DB
+=======================================================
+2026-09-13 19:41:11 | INFO     | ✅ Database initialized at C:\Users\HP\Downloads\link\data\jobs.db
+2026-09-13 19:41:11 | INFO     | ✅ Database initialized
+2026-09-13 19:41:11 | INFO     | 
+=======================================================
+  🔐 Stage 2/5 — Login
+=======================================================
+2026-09-13 19:41:15 | INFO     | ✅ Restored browser session from disk
+2026-09-13 19:41:21 | SUCCESS  | 🔓 Session still valid — skipping login
+2026-09-13 19:41:21 | INFO     | 💾 Session saved to C:\Users\HP\Downloads\link\data\session.json
+2026-09-13 19:41:21 | INFO     | 
+=======================================================
+  🔍 Stage 3/5 — Scrape Jobs
+=======================================================
+2026-09-13 19:41:21 | INFO     | 🔍 Searching for: 'AI Automation' (Remote)
+2026-09-13 19:41:28 | INFO     | 📋 Found 15 job cards on page 1
+2026-09-13 19:41:31 | INFO     | ✅ [1/30] Queued: AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:41:34 | INFO     | ✅ [2/30] Queued: Staff AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:41:38 | INFO     | ✅ [3/30] Queued: Principal AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:41:41 | INFO     | ✅ [4/30] Queued: Staff AI Compiler Engineer @ Mulya Technologies
+2026-09-13 19:41:44 | INFO     | ✅ [5/30] Queued: Conversational AI Engineer / CCAI Voice AI Engineer @ techolution
+2026-09-13 19:41:48 | INFO     | ✅ [6/30] Queued: criteria 3 @ iCIMS Middleware Test Company
+2026-09-13 19:41:51 | INFO     | ✅ [7/30] Queued: UIPath Developer - Automation @ Avensys Consulting
+2026-09-13 19:41:54 | INFO     | ✅ [8/30] Queued: Artificial Intelligence Engineer @ Ternuvo AI
+2026-09-13 19:41:58 | INFO     | ✅ [9/30] Queued: Application Developer Mentor @ internmo
+2026-09-13 19:42:01 | INFO     | ✅ [10/30] Queued: Senior AI Engineer @ Hey Recruiting Agency
+2026-09-13 19:42:08 | INFO     | ✅ [11/30] Queued: Veeva Vault CRM @ Talentgigs
+2026-09-13 19:42:10 | INFO     | ✅ [12/30] Queued: Data Engineer @ Talentgigs
+2026-09-13 19:42:13 | INFO     | ✅ [13/30] Queued: Senior Software Engineer –Agentic AI / GenAI @ Talentgigs
+2026-09-13 19:42:17 | INFO     | ✅ [14/30] Queued: n8n Engineer (Contract) – Process Automation, Integration & AI @ Giant Group
+2026-09-13 19:42:20 | INFO     | ✅ [15/30] Queued: Staff Engineer, AI & Search (India) @ Yieldmo
+2026-09-13 19:42:21 | INFO     | 📄 No more pages
+2026-09-13 19:42:21 | SUCCESS  | 🎯 Scraping complete: 15 new jobs queued
+2026-09-13 19:42:21 | INFO     | 📋 Scraped 15 new jobs
+2026-09-13 19:42:21 | INFO     | 
+=======================================================
+  ✍️  Stage 4/5 — Tailor Resumes
+=======================================================
+2026-09-13 19:42:21 | INFO     | ✍️  Tailoring resumes for 15 jobs (concurrency=3)
+2026-09-13 19:42:22 | INFO     | 📄 Parsed PDF (pdfplumber): 5267 chars from base_resume.pdf
+2026-09-13 19:42:22 | INFO     | 🧠 Tailoring resume for: AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:42:22 | INFO     | 🧠 Tailoring resume for: Staff AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:42:22 | INFO     | 🧠 Tailoring resume for: Principal AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:42:34 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-13 19:42:34 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\EnCharge_AI_Principal_AI_Compiler_Engineer_20260913_194234.pdf
+2026-09-13 19:42:34 | SUCCESS  | 📄 Tailored resume ready: EnCharge_AI_Principal_AI_Compiler_Engineer_20260913_194234.pdf
+2026-09-13 19:42:34 | INFO     | 🧠 Tailoring resume for: Staff AI Compiler Engineer @ Mulya Technologies
+2026-09-13 19:42:37 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-13 19:42:37 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\EnCharge_AI_AI_Compiler_Engineer_20260913_194237.pdf
+2026-09-13 19:42:37 | SUCCESS  | 📄 Tailored resume ready: EnCharge_AI_AI_Compiler_Engineer_20260913_194237.pdf
+2026-09-13 19:42:37 | INFO     | 🧠 Tailoring resume for: Conversational AI Engineer / CCAI Voice AI Engineer @ techolution
+2026-09-13 19:42:42 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-13 19:42:42 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\EnCharge_AI_Staff_AI_Compiler_Engineer_20260913_194242.pdf
+2026-09-13 19:42:42 | SUCCESS  | 📄 Tailored resume ready: EnCharge_AI_Staff_AI_Compiler_Engineer_20260913_194242.pdf
+2026-09-13 19:42:42 | INFO     | 🧠 Tailoring resume for: criteria 3 @ iCIMS Middleware Test Company
+2026-09-13 19:42:45 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-13 19:42:45 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Mulya_Technologies_Staff_AI_Compiler_Engineer_20260913_194245.pdf
+2026-09-13 19:42:45 | SUCCESS  | 📄 Tailored resume ready: Mulya_Technologies_Staff_AI_Compiler_Engineer_20260913_194245.pdf
+2026-09-13 19:42:45 | INFO     | 🧠 Tailoring resume for: UIPath Developer - Automation @ Avensys Consulting
+2026-09-13 19:42:45 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 13.744173072s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 13
+}
+]. Using fallback resume.
+2026-09-13 19:42:45 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:45 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Avensys_Consulting_UIPath_Developer_-_Automation_20260913_194245.pdf
+2026-09-13 19:42:45 | SUCCESS  | 📄 Tailored resume ready: Avensys_Consulting_UIPath_Developer_-_Automation_20260913_194245.pdf
+2026-09-13 19:42:45 | INFO     | 🧠 Tailoring resume for: Artificial Intelligence Engineer @ Ternuvo AI
+2026-09-13 19:42:46 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 13.388243522s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 13
+}
+]. Using fallback resume.
+2026-09-13 19:42:46 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:46 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Ternuvo_AI_Artificial_Intelligence_Engineer_20260913_194246.pdf
+2026-09-13 19:42:46 | SUCCESS  | 📄 Tailored resume ready: Ternuvo_AI_Artificial_Intelligence_Engineer_20260913_194246.pdf
+2026-09-13 19:42:46 | INFO     | 🧠 Tailoring resume for: Application Developer Mentor @ internmo
+2026-09-13 19:42:46 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 12.996519145s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 12
+}
+]. Using fallback resume.
+2026-09-13 19:42:46 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:46 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\internmo_Application_Developer_Mentor_20260913_194246.pdf
+2026-09-13 19:42:46 | SUCCESS  | 📄 Tailored resume ready: internmo_Application_Developer_Mentor_20260913_194246.pdf
+2026-09-13 19:42:46 | INFO     | 🧠 Tailoring resume for: Senior AI Engineer @ Hey Recruiting Agency
+2026-09-13 19:42:47 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 12.620490965s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 12
+}
+]. Using fallback resume.
+2026-09-13 19:42:47 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:47 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Hey_Recruiting_Agency_Senior_AI_Engineer_20260913_194247.pdf
+2026-09-13 19:42:47 | SUCCESS  | 📄 Tailored resume ready: Hey_Recruiting_Agency_Senior_AI_Engineer_20260913_194247.pdf
+2026-09-13 19:42:47 | INFO     | 🧠 Tailoring resume for: Veeva Vault CRM @ Talentgigs
+2026-09-13 19:42:47 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 12.210600714s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 12
+}
+]. Using fallback resume.
+2026-09-13 19:42:47 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:47 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Talentgigs_Veeva_Vault_CRM_20260913_194247.pdf
+2026-09-13 19:42:47 | SUCCESS  | 📄 Tailored resume ready: Talentgigs_Veeva_Vault_CRM_20260913_194247.pdf
+2026-09-13 19:42:47 | INFO     | 🧠 Tailoring resume for: Data Engineer @ Talentgigs
+2026-09-13 19:42:47 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 11.856972379s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 11
+}
+]. Using fallback resume.
+2026-09-13 19:42:47 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:47 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Talentgigs_Data_Engineer_20260913_194247.pdf
+2026-09-13 19:42:47 | SUCCESS  | 📄 Tailored resume ready: Talentgigs_Data_Engineer_20260913_194247.pdf
+2026-09-13 19:42:47 | INFO     | 🧠 Tailoring resume for: Senior Software Engineer –Agentic AI / GenAI @ Talentgigs
+2026-09-13 19:42:48 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 11.457586972s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 11
+}
+]. Using fallback resume.
+2026-09-13 19:42:48 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:48 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Talentgigs_Senior_Software_Engineer__Agentic_AI___GenAI_20260913_194248.pdf
+2026-09-13 19:42:48 | SUCCESS  | 📄 Tailored resume ready: Talentgigs_Senior_Software_Engineer__Agentic_AI___GenAI_20260913_194248.pdf
+2026-09-13 19:42:48 | INFO     | 🧠 Tailoring resume for: n8n Engineer (Contract) – Process Automation, Integration & AI @ Giant Group
+2026-09-13 19:42:48 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 11.0584287s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 11
+}
+]. Using fallback resume.
+2026-09-13 19:42:48 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:48 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Giant_Group_n8n_Engineer__Contract____Process_Automation__In_20260913_194248.pdf
+2026-09-13 19:42:48 | SUCCESS  | 📄 Tailored resume ready: Giant_Group_n8n_Engineer__Contract____Process_Automation__In_20260913_194248.pdf
+2026-09-13 19:42:48 | INFO     | 🧠 Tailoring resume for: Staff Engineer, AI & Search (India) @ Yieldmo
+2026-09-13 19:42:48 | WARNING  | ⚠️ Gemini API call failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash
+Please retry in 10.684484804s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-3.6-flash"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 5
+}
+, retry_delay {
+  seconds: 10
+}
+]. Using fallback resume.
+2026-09-13 19:42:48 | WARNING  | ⚠️ Using fallback resume tailoring (Gemini API key is not configured in .env). Set GEMINI_API_KEY in .env for full AI tailoring.
+2026-09-13 19:42:49 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\Yieldmo_Staff_Engineer__AI___Search__India__20260913_194249.pdf
+2026-09-13 19:42:49 | SUCCESS  | 📄 Tailored resume ready: Yieldmo_Staff_Engineer__AI___Search__India__20260913_194249.pdf
+2026-09-13 19:42:53 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-13 19:42:53 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\iCIMS_Middleware_Test_Company_criteria_3_20260913_194253.pdf
+2026-09-13 19:42:53 | SUCCESS  | 📄 Tailored resume ready: iCIMS_Middleware_Test_Company_criteria_3_20260913_194253.pdf
+2026-09-13 19:42:54 | SUCCESS  | ✅ Resume tailored with 0 ATS keywords
+2026-09-13 19:42:54 | SUCCESS  | 📄 Resume PDF built: C:\Users\HP\Downloads\link\data\tailored\techolution_Conversational_AI_Engineer___CCAI_Voice_AI_Engin_20260913_194254.pdf
+2026-09-13 19:42:54 | SUCCESS  | 📄 Tailored resume ready: techolution_Conversational_AI_Engineer___CCAI_Voice_AI_Engin_20260913_194254.pdf
+2026-09-13 19:42:54 | SUCCESS  | ✅ Resume tailoring complete: 15/15 succeeded
+2026-09-13 19:42:54 | INFO     | ✍️  Tailored 15 resumes
+2026-09-13 19:42:54 | INFO     | 
+=======================================================
+  🚀 Stage 5/5 — Apply
+=======================================================
+2026-09-13 19:42:54 | INFO     | 🚀 Applying to: AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:43:02 | DEBUG    |   → Form step 1
+2026-09-13 19:43:04 | DEBUG    |   → Form step 2
+2026-09-13 19:43:07 | INFO     | 📎 Uploaded resume: EnCharge_AI_AI_Compiler_Engineer_20260913_194237.pdf
+2026-09-13 19:43:07 | DEBUG    |   → Form step 3
+2026-09-13 19:43:09 | DEBUG    |   → Form step 4
+2026-09-13 19:43:10 | DEBUG    |   → Form step 5
+2026-09-13 19:43:11 | DEBUG    |   → Form step 6
+2026-09-13 19:43:13 | DEBUG    |   → Form step 7
+2026-09-13 19:43:14 | DEBUG    |   → Form step 8
+2026-09-13 19:43:15 | DEBUG    |   → Form step 9
+2026-09-13 19:43:16 | DEBUG    |   → Form step 10
+2026-09-13 19:43:17 | WARNING  | ⚠️ Max steps reached without submission for: AI Compiler Engineer
+2026-09-13 19:43:25 | INFO     | 🚀 Applying to: Staff AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:43:34 | DEBUG    |   → Form step 1
+2026-09-13 19:43:36 | DEBUG    |   → Form step 2
+2026-09-13 19:43:38 | INFO     | 📎 Uploaded resume: EnCharge_AI_Staff_AI_Compiler_Engineer_20260913_194242.pdf
+2026-09-13 19:43:39 | DEBUG    |   → Form step 3
+2026-09-13 19:43:40 | DEBUG    |   → Form step 4
+2026-09-13 19:43:41 | DEBUG    |   → Form step 5
+2026-09-13 19:43:42 | DEBUG    |   → Form step 6
+2026-09-13 19:43:44 | DEBUG    |   → Form step 7
+2026-09-13 19:43:45 | WARNING  | 
+============================================================
+⏸️  HUMAN REVIEW REQUIRED
+Job: Staff AI Compiler Engineer @ EnCharge AI
+Resume: C:\Users\HP\Downloads\link\data\tailored\EnCharge_AI_Staff_AI_Compiler_Engineer_20260913_194242.pdf
+Press ENTER in the terminal to submit, or type 'skip' to skip:
+============================================================
+2026-09-13 19:45:19 | INFO     | 🚀 Applying to: Principal AI Compiler Engineer @ EnCharge AI
+2026-09-13 19:45:27 | DEBUG    |   → Form step 1
+2026-09-13 19:45:28 | DEBUG    |   → Form step 2
+2026-09-13 19:45:31 | INFO     | 📎 Uploaded resume: EnCharge_AI_Principal_AI_Compiler_Engineer_20260913_194234.pdf
+2026-09-13 19:45:31 | DEBUG    |   → Form step 3
+2026-09-13 19:45:32 | DEBUG    |   → Form step 4
+2026-09-13 19:45:34 | DEBUG    |   → Form step 5
+2026-09-13 19:45:35 | DEBUG    |   → Form step 6
+2026-09-13 19:45:36 | DEBUG    |   → Form step 7
+2026-09-13 19:45:37 | DEBUG    |   → Form step 8
+2026-09-13 19:45:39 | DEBUG    |   → Form step 9
+2026-09-13 19:45:40 | DEBUG    |   → Form step 10
+2026-09-13 19:45:41 | WARNING  | ⚠️ Max steps reached without submission for: Principal AI Compiler Engineer
+2026-09-13 19:45:49 | INFO     | 🚀 Applying to: Staff AI Compiler Engineer @ Mulya Technologies
+2026-09-13 19:45:58 | DEBUG    |   → Form step 1
+2026-09-13 19:46:00 | DEBUG    |   → Form step 2
+2026-09-13 19:46:02 | INFO     | 📎 Uploaded resume: Mulya_Technologies_Staff_AI_Compiler_Engineer_20260913_194245.pdf
+2026-09-13 19:46:02 | DEBUG    |   → Form step 3
+2026-09-13 19:46:03 | DEBUG    |   → Form step 4
+2026-09-13 19:46:04 | DEBUG    |   → Form step 5
+2026-09-13 19:46:06 | DEBUG    |   → Form step 6
+2026-09-13 19:46:07 | DEBUG    |   → Form step 7
+2026-09-13 19:46:08 | DEBUG    |   → Form step 8
+2026-09-13 19:46:09 | DEBUG    |   → Form step 9
+2026-09-13 19:46:11 | DEBUG    |   → Form step 10
+2026-09-13 19:46:12 | WARNING  | ⚠️ Max steps reached without submission for: Staff AI Compiler Engineer
+2026-09-13 19:46:18 | INFO     | 🚀 Applying to: Conversational AI Engineer / CCAI Voice AI Engineer @ techolution
+2026-09-13 19:46:24 | DEBUG    |   → Form step 1
+2026-09-13 19:46:26 | DEBUG    |   → Form step 2
+2026-09-13 19:46:28 | INFO     | 📎 Uploaded resume: techolution_Conversational_AI_Engineer___CCAI_Voice_AI_Engin_20260913_194254.pdf
+2026-09-13 19:46:28 | DEBUG    |   → Form step 3
+2026-09-13 19:46:29 | DEBUG    |   → Form step 4
+2026-09-13 19:46:31 | DEBUG    |   → Form step 5
+2026-09-13 19:46:32 | DEBUG    |   → Form step 6
+2026-09-13 19:46:33 | DEBUG    |   → Form step 7
+2026-09-13 19:46:34 | DEBUG    |   → Form step 8
+2026-09-13 19:46:36 | DEBUG    |   → Form step 9
+2026-09-13 19:46:38 | DEBUG    |   → Form step 10
+2026-09-13 19:46:39 | WARNING  | ⚠️ Max steps reached without submission for: Conversational AI Engineer / CCAI Voice AI Engineer
+2026-09-13 19:46:47 | INFO     | 🚀 Applying to: criteria 3 @ iCIMS Middleware Test Company
+2026-09-13 19:46:54 | DEBUG    |   → Form step 1
+2026-09-13 19:46:56 | DEBUG    |   → Form step 2
+2026-09-13 19:46:58 | DEBUG    |   → Form step 3
+2026-09-13 19:47:00 | INFO     | 📎 Uploaded resume: iCIMS_Middleware_Test_Company_criteria_3_20260913_194253.pdf
+2026-09-13 19:47:00 | DEBUG    |   → Form step 4
+2026-09-13 19:47:02 | WARNING  | 
+============================================================
+⏸️  HUMAN REVIEW REQUIRED
+Job: criteria 3 @ iCIMS Middleware Test Company
+Resume: C:\Users\HP\Downloads\link\data\tailored\iCIMS_Middleware_Test_Company_criteria_3_20260913_194253.pdf
+Press ENTER in the terminal to submit, or type 'skip' to skip:
+============================================================
+2026-09-13 19:48:53 | INFO     | 🚀 Applying to: UIPath Developer - Automation @ Avensys Consulting
+2026-09-13 19:49:00 | DEBUG    |   → Form step 1
+2026-09-13 19:49:02 | DEBUG    |   → Form step 2
+2026-09-13 19:49:04 | INFO     | 📎 Uploaded resume: Avensys_Consulting_UIPath_Developer_-_Automation_20260913_194245.pdf
+2026-09-13 19:49:04 | DEBUG    |   → Form step 3
+2026-09-13 19:49:06 | DEBUG    |   → Form step 4
+2026-09-13 19:49:07 | DEBUG    |   → Form step 5
+2026-09-13 19:49:08 | DEBUG    |   → Form step 6
+2026-09-13 19:49:10 | DEBUG    |   → Form step 7
+2026-09-13 19:49:11 | DEBUG    |   → Form step 8
+2026-09-13 19:49:12 | DEBUG    |   → Form step 9
+2026-09-13 19:49:13 | DEBUG    |   → Form step 10
+2026-09-13 19:49:15 | WARNING  | ⚠️ Max steps reached without submission for: UIPath Developer - Automation
+2026-09-13 19:49:22 | INFO     | 🚀 Applying to: Artificial Intelligence Engineer @ Ternuvo AI
+2026-09-13 19:49:30 | DEBUG    |   → Form step 1
+2026-09-13 19:49:31 | DEBUG    |   → Form step 2
+2026-09-13 19:49:34 | INFO     | 📎 Uploaded resume: Ternuvo_AI_Artificial_Intelligence_Engineer_20260913_194246.pdf
+2026-09-13 19:49:34 | DEBUG    |   → Form step 3
+2026-09-13 19:49:35 | DEBUG    |   → Form step 4
+2026-09-13 19:49:37 | WARNING  | 
+============================================================
+⏸️  HUMAN REVIEW REQUIRED
+Job: Artificial Intelligence Engineer @ Ternuvo AI
+Resume: C:\Users\HP\Downloads\link\data\tailored\Ternuvo_AI_Artificial_Intelligence_Engineer_20260913_194246.pdf
+Press ENTER in the terminal to submit, or type 'skip' to skip:
+============================================================
+2026-09-13 19:50:03 | INFO     | 🚀 Applying to: Application Developer Mentor @ internmo
+2026-09-13 19:50:10 | DEBUG    |   → Form step 1
+2026-09-13 19:50:11 | DEBUG    |   → Form step 2
+2026-09-13 19:50:14 | INFO     | 📎 Uploaded resume: internmo_Application_Developer_Mentor_20260913_194246.pdf
+2026-09-13 19:50:14 | DEBUG    |   → Form step 3
+2026-09-13 19:50:15 | WARNING  | 
+============================================================
+⏸️  HUMAN REVIEW REQUIRED
+Job: Application Developer Mentor @ internmo
+Resume: C:\Users\HP\Downloads\link\data\tailored\internmo_Application_Developer_Mentor_20260913_194246.pdf
+Press ENTER in the terminal to submit, or type 'skip' to skip:
+============================================================
+2026-09-13 19:51:11 | INFO     | 🚀 Applying to: Senior AI Engineer @ Hey Recruiting Agency
+2026-09-13 19:51:19 | DEBUG    |   → Form step 1
+2026-09-13 19:51:20 | DEBUG    |   → Form step 2
+2026-09-13 19:51:22 | WARNING  | ⚠️ No navigation button found at step 2
+2026-09-13 19:51:22 | WARNING  | ⚠️ Max steps reached without submission for: Senior AI Engineer
+2026-09-13 19:51:26 | INFO     | 🚀 Applying to: Veeva Vault CRM @ Talentgigs
+2026-09-13 19:51:34 | DEBUG    |   → Form step 1
+2026-09-13 19:51:35 | DEBUG    |   → Form step 2
+2026-09-13 19:51:38 | INFO     | 📎 Uploaded resume: Talentgigs_Veeva_Vault_CRM_20260913_194247.pdf
+2026-09-13 19:51:38 | DEBUG    |   → Form step 3
+2026-09-13 19:51:39 | DEBUG    |   → Form step 4
+2026-09-13 19:51:41 | DEBUG    |   → Form step 5
+2026-09-13 19:51:42 | DEBUG    |   → Form step 6
+2026-09-13 19:51:44 | DEBUG    |   → Form step 7
+2026-09-13 19:51:45 | DEBUG    |   → Form step 8
+2026-09-13 19:51:46 | DEBUG    |   → Form step 9
+2026-09-13 19:51:47 | DEBUG    |   → Form step 10
+2026-09-13 19:51:48 | WARNING  | ⚠️ Max steps reached without submission for: Veeva Vault CRM
+2026-09-13 19:51:55 | INFO     | 🚀 Applying to: Data Engineer @ Talentgigs
+2026-09-13 19:52:02 | DEBUG    |   → Form step 1
+2026-09-13 19:52:04 | DEBUG    |   → Form step 2
+2026-09-13 19:52:06 | INFO     | 📎 Uploaded resume: Talentgigs_Data_Engineer_20260913_194247.pdf
+2026-09-13 19:52:06 | DEBUG    |   → Form step 3
+2026-09-13 19:52:07 | INFO     | 🔎 Detected 1 screening questions on this step. Resolving with AI...
+2026-09-13 19:52:10 | INFO     | 🧠 Gemini resolved 1 screening questions with confidence scores
+2026-09-13 19:52:40 | WARNING  | ⚠️ Screening question handler error: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <label class="t-14" data-test-text-selectable-option__label="Yes" for="urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4465476430,31807860564,multipleChoice)-0">…</label> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <label class="t-14" data-test-text-selectable-option__label="Yes" for="urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4465476430,31807860564,multipleChoice)-0">…</label> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <label class="t-14" data-test-text-selectable-option__label="Yes" for="urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4465476430,31807860564,multipleChoice)-0">…</label> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+2026-09-13 19:52:40 | DEBUG    |   → Form step 4
+2026-09-13 19:52:42 | INFO     | 🔎 Detected 1 screening questions on this step. Resolving with AI...
+2026-09-13 19:52:48 | INFO     | 🧠 Gemini resolved 1 screening questions with confidence scores
+2026-09-13 19:53:03 | WARNING  | ⚠️ Screening question handler error: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <label class="t-14" data-test-text-selectable-option__label="Yes" for="urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4465476430,31807860564,multipleChoice)-0">…</label> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <label class="t-14" data-test-text-selectable-option__label="Yes" for="urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4465476430,31807860564,multipleChoice)-0">…</label> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    23 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <label class="t-14" data-test-text-selectable-option__label="Yes" for="urn:li:fsd_formElement:urn:li:jobs_applyformcommon_easyApplyFormElement:(4465476430,31807860564,multipleChoice)-0">…</label> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+    3 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="ember250" aria-hidden="false" data-test-modal-container="" data-test-is-confirm-dialog="" data-test-modal-id="data-test-easy-apply-discard-confirmation" class="artdeco-modal-overlay artdeco-modal-overlay--layer-confirmation artdeco-modal-overlay--is-top-layer  ember-view">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+
+2026-09-13 19:53:03 | WARNING  | ⚠️ No navigation button found at step 4
+2026-09-13 19:53:03 | WARNING  | ⚠️ Max steps reached without submission for: Data Engineer
+2026-09-13 19:53:09 | INFO     | 🚀 Applying to: Senior Software Engineer –Agentic AI / GenAI @ Talentgigs
+2026-09-13 19:53:16 | DEBUG    |   → Form step 1
+2026-09-13 19:53:17 | DEBUG    |   → Form step 2
+2026-09-13 19:53:20 | INFO     | 📎 Uploaded resume: Talentgigs_Senior_Software_Engineer__Agentic_AI___GenAI_20260913_194248.pdf
+2026-09-13 19:53:20 | DEBUG    |   → Form step 3
+2026-09-13 19:53:21 | DEBUG    |   → Form step 4
+2026-09-13 19:53:22 | DEBUG    |   → Form step 5
+2026-09-13 19:53:24 | DEBUG    |   → Form step 6
+2026-09-13 19:53:25 | DEBUG    |   → Form step 7
+2026-09-13 19:53:26 | DEBUG    |   → Form step 8
+2026-09-13 19:53:28 | DEBUG    |   → Form step 9
+2026-09-13 19:53:29 | DEBUG    |   → Form step 10
+2026-09-13 19:53:30 | WARNING  | ⚠️ Max steps reached without submission for: Senior Software Engineer –Agentic AI / GenAI
+2026-09-13 19:53:37 | INFO     | 🚀 Applying to: n8n Engineer (Contract) – Process Automation, Integration & AI @ Giant Group
+2026-09-13 19:53:44 | DEBUG    |   → Form step 1
+2026-09-13 19:53:46 | DEBUG    |   → Form step 2
+2026-09-13 19:53:48 | INFO     | 📎 Uploaded resume: Giant_Group_n8n_Engineer__Contract____Process_Automation__In_20260913_194248.pdf
+2026-09-13 19:53:49 | DEBUG    |   → Form step 3
+2026-09-13 19:53:50 | DEBUG    |   → Form step 4
+2026-09-13 19:53:51 | DEBUG    |   → Form step 5
+2026-09-13 19:53:52 | DEBUG    |   → Form step 6
+2026-09-13 19:53:53 | DEBUG    |   → Form step 7
+2026-09-13 19:53:55 | DEBUG    |   → Form step 8
+2026-09-13 19:53:56 | DEBUG    |   → Form step 9
+2026-09-13 19:53:59 | ERROR    | ❌ Apply failed for n8n Engineer (Contract) – Process Automation, Integration & AI @ Giant Group: ElementHandle.click: Element is not attached to the DOM
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="ember235" aria-hidden="false" data-test-modal-container="" data-test-is-confirm-dialog="" data-test-modal-id="data-test-easy-apply-discard-confirmation" class="artdeco-modal-overlay artdeco-modal-overlay--layer-confirmation artdeco-modal-overlay--is-top-layer  ember-view">…</div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="ember235" aria-hidden="false" data-test-modal-container="" data-test-is-confirm-dialog="" data-test-modal-id="data-test-easy-apply-discard-confirmation" class="artdeco-modal-overlay artdeco-modal-overlay--layer-confirmation artdeco-modal-overlay--is-top-layer  ember-view">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="ember235" aria-hidden="false" data-test-modal-container="" data-test-is-confirm-dialog="" data-test-modal-id="data-test-easy-apply-discard-confirmation" class="artdeco-modal-overlay artdeco-modal-overlay--layer-confirmation artdeco-modal-overlay--is-top-layer  ember-view">…</div> intercepts pointer events
+    - retrying click action
+      - waiting 500ms
+    - waiting for element to be visible, enabled and stable
+
+2026-09-13 19:54:03 | INFO     | 🚀 Applying to: Staff Engineer, AI & Search (India) @ Yieldmo
+2026-09-13 19:54:10 | DEBUG    |   → Form step 1
+2026-09-13 19:54:11 | DEBUG    |   → Form step 2
+2026-09-13 19:54:12 | DEBUG    |   → Form step 3
+2026-09-13 19:54:19 | DEBUG    |   → Form step 4
+2026-09-13 19:54:22 | INFO     | 📎 Uploaded resume: Yieldmo_Staff_Engineer__AI___Search__India__20260913_194249.pdf
+2026-09-13 19:54:22 | DEBUG    |   → Form step 5
+2026-09-13 19:54:23 | INFO     | 🔎 Detected 4 screening questions on this step. Resolving with AI...
+2026-09-13 19:54:29 | INFO     | 🧠 Gemini resolved 4 screening questions with confidence scores
+2026-09-13 19:54:29 | WARNING  | 
+=================================================================
+🤔 HUMAN IN THE LOOP — 4 Question(s) With Confidence < 75%
+Job: Staff Engineer, AI & Search (India) @ Yieldmo
+=================================================================
